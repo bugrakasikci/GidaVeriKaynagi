@@ -1,0 +1,38 @@
+name: Gıda Verilerini Güncelle
+
+# Ne zaman çalışsın?
+on:
+  schedule:
+    - cron: '0 3 * * *' # Her gün saat 03:00'te (UTC saatiyle)
+  workflow_dispatch: # İstersen butona basıp manuel de çalıştırabilirsin
+
+jobs:
+  veri-cekme-islem:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Dosyayı güncelleme izni veriyoruz
+      
+    steps:
+      - name: Depoyu Kontrol Et (Checkout)
+        uses: actions/checkout@v3
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Gerekli Kütüphaneleri Yükle
+        run: |
+          pip install -r requirements.txt
+
+      - name: Veri Çekme Robotunu Çalıştır
+        run: python veri_cek.py
+
+      - name: Değişiklikleri Kaydet (Commit & Push)
+        run: |
+          git config --global user.name "GidaRobotu"
+          git config --global user.email "robot@github.com"
+          git add yasakli_urunler.json
+          # Eğer değişiklik varsa kaydet, yoksa hata verme
+          git commit -m "Veriler güncellendi: $(date)" || echo "Değişiklik yok"
+          git push
