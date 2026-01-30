@@ -1,5 +1,61 @@
 [
     {
+        "firma": "29.01.2026",
+        "urun": "ANKSAN BESİCİLİK GIDA TARIM ÜRÜNLERİ TAŞIMACILIK İNŞAAT TURİZM SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "ANKET",
+        "sebep": "PİŞMİŞ DANA DÖNER",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "KARTAL ET VE ET MAMÜLLERİ-BURHAN KARTAL",
+        "marka": "BURHAN GÜVENAL",
+        "sebep": "DANA SUCUK",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "HERTAT GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "HERTAT",
+        "sebep": "SUMAK",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "ÖZ KOZANOĞLU -KEMAL NAR",
+        "marka": "KOZANOĞLU ÖZ BİBER VE BAHARATLARI",
+        "sebep": "SUMAK",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "ÖMER KORKMAZ",
+        "marka": "KORKMAZ BAHARATLARI",
+        "sebep": "KIRMIZI PUL BİBER",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "CAFER SAYAR",
+        "marka": "SAYAR GIDA",
+        "sebep": "SUMAK",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "KARASU TİCARET-CEMAL KARASU",
+        "marka": "ŞİRİNCE TAT",
+        "sebep": "SOĞUK SIKIM NATUREL SIZMA ZEYTİNYAĞI",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
         "firma": "25.12.2025",
         "urun": "MUSTAFA SAYAR",
         "marka": "-",
@@ -302,6 +358,310 @@
         "sebep": "BİTKİSEL KARIŞIMLI MACUN",
         "kategori": "Sağlık Tehlikesi",
         "alt_liste": ""
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "HARUN ÇAKIROĞLU",
+        "marka": "-",
+        "sebep": "TEREYAĞ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "NAMIK ÜLGEN",
+        "marka": "-",
+        "sebep": "TEREYAĞ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "FATMA BEŞLİ",
+        "marka": "-",
+        "sebep": "TEREYAĞ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "UFUK KÜÇÜK-KÜÇÜKBEY SÜT VE SÜT ÜRÜNLERİ",
+        "marka": "EJDER YAYLASI",
+        "sebep": "TEREYAĞ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "EMİNOĞLU SÜT VE SÜT ÜRÜNLERİ-CUMA GÜLTEKİN",
+        "marka": "YÖRELİ YÖRESEL",
+        "sebep": "PEYNİR",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "ÖZ AS PİDE SALONU-ZAFER ÖZNALCI",
+        "marka": "-",
+        "sebep": "ÇİĞ LAHMACUN HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "SARAY PİDE -DİNAR POLAT",
+        "marka": "-",
+        "sebep": "ÇİĞ PİDE HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "ALTIN KASAP ET VE TAVUK DÜNYASI-EDANUR ÖZMEN",
+        "marka": "-",
+        "sebep": "PİŞMEMİŞ DANA ADANA KEBAP",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "ALTIN KASAP ET VE TAVUK DÜNYASI-EDANUR ÖZMEN",
+        "marka": "-",
+        "sebep": "PİŞMEMİŞ DANA KÖFTE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "SAR KEBAP RESTORAN İŞLETMECİLİĞİ TİCARET LİMİTED ŞİRKETİ-SAR KEBAP PLUS",
+        "marka": "-",
+        "sebep": "LAHMACUN (PİŞMİŞ) (DANA-KUZU KARIŞIK)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "SABRİ ZEYBEK",
+        "marka": "MS KEBAP",
+        "sebep": "ET DÖNER",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "MEZOPOTAMYA KEBAP EVİ-ŞEFİK KANAR",
+        "marka": "-",
+        "sebep": "ÇİĞ ADANA HARCI (DANA+KUZU ETİ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "DİM-PA MEŞRUBAT GIDA PAZARLAMA İTHALAT İHRACAT TİCARET VE SANAYİ LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "PİŞMİŞ HAMBURGER (DANA+KUZU ETİ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "KOÇLAR GIDA MADDELERİ SERVİS HİZMETLERİ OTOMOTİV İNŞAAT MAKİNE SANAYİ VE TİCARET LİMİTED ŞİRKETİ-KOÇLAR RESTAURANT",
+        "marka": "-",
+        "sebep": "DANA ETİ KIYMA HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "CUMHURİYET GÜVEÇ BÖREK SALONU-EMİNEMERYEM GÜNEL",
+        "marka": "-",
+        "sebep": "DANA GÜVEÇ İÇ HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "DÜRÜMCÜ SEDAT-MEHMET DENİZHAN",
+        "marka": "-",
+        "sebep": "ADANA KEBAP (DANA KIYMALI)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "DİSA ET GRUP-SUDENAZ BİRDAL",
+        "marka": "-",
+        "sebep": "DANA KÖFTE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "BOYBEY ET DÜNYASI-ERDİNÇ YAMAN-ERDİNÇ YAMAN",
+        "marka": "-",
+        "sebep": "KASAP KÖFTE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "MEHMET NAR",
+        "marka": "NARTAŞIM BAHARAT",
+        "sebep": "PUL KIRMIZI BİBER",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "KAHRAMAN MARAŞ BAHARAT GIDA-ADEM TERLİK",
+        "marka": "ST BAHARATÇIM",
+        "sebep": "PUL KIRMIZI BİBER",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "KAHRAMAN MARAŞ BAHARAT GIDA-ADEM TERLİK",
+        "marka": "ST BAHARATÇIM",
+        "sebep": "TOZ KIRMIZIBİBER",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "BULDUMLAR BAHARAT BAKLİYAT GIDA TARIM ZİRAİ ÜRÜNLER TAŞ.OTO.İNŞ.YAZ.TUR.METAL MAK.SAN.TİC.LTD.ŞTİ.",
+        "marka": "BULDUMLAR",
+        "sebep": "PUL KIRMIZI BİBER",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "SADULLAH NAR",
+        "marka": "NARBİ",
+        "sebep": "PUL KIRMIZI BİBER",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "YILMAZ CAN",
+        "marka": "-",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI 1 LİTRE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "YILMAZ CAN",
+        "marka": "-",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI 5 LİTRE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "EFE TV ORGANİC DOĞAL ÜRÜNLER-SERHAN SEYHAN",
+        "marka": "-",
+        "sebep": "SIZMA ZEYTİNYAĞI (1,5 LİTRE)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "SEZGİN ÇETİN-VKB TARIM ÜRÜNLERİ",
+        "marka": "ASIR TARIM KÖYBİRLİK",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI (5 LİTRE)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "EFE TV ORGANİC DOĞAL ÜRÜNLER-SERHAN SEYHAN",
+        "marka": "-",
+        "sebep": "SIZMA ZEYTİNYAĞI (18 LT)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "EFE TV ORGANİC DOĞAL ÜRÜNLER-SERHAN SEYHAN",
+        "marka": "EFE TV ORGANİC EGEDEN KAPINIZA GELEN LEZZET",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI (5 LİTRE)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "EFE TV ORGANİC DOĞAL ÜRÜNLER-SERHAN SEYHAN",
+        "marka": "EFE TV ORGANİC",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI (5 LİTRE)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "EFE TV ORGANİC DOĞAL ÜRÜNLER-SERHAN SEYHAN",
+        "marka": "-",
+        "sebep": "SIZMA ZEYTİNYAĞI (5 LT)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "AKA ÇİFTLİĞİ MANDIRA&ŞARKÜTERİ-SERKAN AKA",
+        "marka": "KUZEY EGE AYVALIK",
+        "sebep": "SOĞUK SIKIM TAŞ BASKI NATÜREL SIZMA ZEYTİNYAĞI-5 LT",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "HİLAL HAYVANSAL ÜRÜNLER YEM SÜT VE SÜT ÜRÜNLERİ TOPTAN TİCARETİ LİMİTED ŞİRKETİ",
+        "marka": "AYVALIK",
+        "sebep": "NATÜREL SIZMA ZEYTİNYAĞI-1000 ML",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "ÖZGÜR CERENAY OZAN ZEYTİNCİLİK-ÖZGÜR AY",
+        "marka": "CERENAY",
+        "sebep": "NATÜREL SIZMA ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "KARASU TİCARET-CEMAL KARASU",
+        "marka": "ŞİRİNCE TAT",
+        "sebep": "SOĞUK SIKIM NATUREL SIZMA ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "EFE TV ORGANİC DOĞAL ÜRÜNLER-SERHAN SEYHAN",
+        "marka": "-",
+        "sebep": "BAL (900 GR)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "HASTÜRK GIDA OTOMOTİV İNŞAAT EMLAK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "VİTAMEL",
+        "sebep": "SÜZME ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "MND KAHVALTILIK GIDA SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "LOKMAN 1984",
+        "sebep": "SÜZME ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
     },
     {
         "firma": "08.01.2026",
@@ -2966,6 +3326,310 @@
         "sebep": "SÜZME ÇİÇEK BALI (250G)",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "HARUN ÇAKIROĞLU",
+        "marka": "-",
+        "sebep": "TEREYAĞ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "NAMIK ÜLGEN",
+        "marka": "-",
+        "sebep": "TEREYAĞ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "FATMA BEŞLİ",
+        "marka": "-",
+        "sebep": "TEREYAĞ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "UFUK KÜÇÜK-KÜÇÜKBEY SÜT VE SÜT ÜRÜNLERİ",
+        "marka": "EJDER YAYLASI",
+        "sebep": "TEREYAĞ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "EMİNOĞLU SÜT VE SÜT ÜRÜNLERİ-CUMA GÜLTEKİN",
+        "marka": "YÖRELİ YÖRESEL",
+        "sebep": "PEYNİR",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "ÖZ AS PİDE SALONU-ZAFER ÖZNALCI",
+        "marka": "-",
+        "sebep": "ÇİĞ LAHMACUN HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "SARAY PİDE -DİNAR POLAT",
+        "marka": "-",
+        "sebep": "ÇİĞ PİDE HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "ALTIN KASAP ET VE TAVUK DÜNYASI-EDANUR ÖZMEN",
+        "marka": "-",
+        "sebep": "PİŞMEMİŞ DANA ADANA KEBAP",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "ALTIN KASAP ET VE TAVUK DÜNYASI-EDANUR ÖZMEN",
+        "marka": "-",
+        "sebep": "PİŞMEMİŞ DANA KÖFTE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "SAR KEBAP RESTORAN İŞLETMECİLİĞİ TİCARET LİMİTED ŞİRKETİ-SAR KEBAP PLUS",
+        "marka": "-",
+        "sebep": "LAHMACUN (PİŞMİŞ) (DANA-KUZU KARIŞIK)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "SABRİ ZEYBEK",
+        "marka": "MS KEBAP",
+        "sebep": "ET DÖNER",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "MEZOPOTAMYA KEBAP EVİ-ŞEFİK KANAR",
+        "marka": "-",
+        "sebep": "ÇİĞ ADANA HARCI (DANA+KUZU ETİ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "DİM-PA MEŞRUBAT GIDA PAZARLAMA İTHALAT İHRACAT TİCARET VE SANAYİ LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "PİŞMİŞ HAMBURGER (DANA+KUZU ETİ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "KOÇLAR GIDA MADDELERİ SERVİS HİZMETLERİ OTOMOTİV İNŞAAT MAKİNE SANAYİ VE TİCARET LİMİTED ŞİRKETİ-KOÇLAR RESTAURANT",
+        "marka": "-",
+        "sebep": "DANA ETİ KIYMA HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "CUMHURİYET GÜVEÇ BÖREK SALONU-EMİNEMERYEM GÜNEL",
+        "marka": "-",
+        "sebep": "DANA GÜVEÇ İÇ HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "DÜRÜMCÜ SEDAT-MEHMET DENİZHAN",
+        "marka": "-",
+        "sebep": "ADANA KEBAP (DANA KIYMALI)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "DİSA ET GRUP-SUDENAZ BİRDAL",
+        "marka": "-",
+        "sebep": "DANA KÖFTE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "BOYBEY ET DÜNYASI-ERDİNÇ YAMAN-ERDİNÇ YAMAN",
+        "marka": "-",
+        "sebep": "KASAP KÖFTE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "MEHMET NAR",
+        "marka": "NARTAŞIM BAHARAT",
+        "sebep": "PUL KIRMIZI BİBER",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "KAHRAMAN MARAŞ BAHARAT GIDA-ADEM TERLİK",
+        "marka": "ST BAHARATÇIM",
+        "sebep": "PUL KIRMIZI BİBER",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "KAHRAMAN MARAŞ BAHARAT GIDA-ADEM TERLİK",
+        "marka": "ST BAHARATÇIM",
+        "sebep": "TOZ KIRMIZIBİBER",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "BULDUMLAR BAHARAT BAKLİYAT GIDA TARIM ZİRAİ ÜRÜNLER TAŞ.OTO.İNŞ.YAZ.TUR.METAL MAK.SAN.TİC.LTD.ŞTİ.",
+        "marka": "BULDUMLAR",
+        "sebep": "PUL KIRMIZI BİBER",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "SADULLAH NAR",
+        "marka": "NARBİ",
+        "sebep": "PUL KIRMIZI BİBER",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "YILMAZ CAN",
+        "marka": "-",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI 1 LİTRE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "YILMAZ CAN",
+        "marka": "-",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI 5 LİTRE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "EFE TV ORGANİC DOĞAL ÜRÜNLER-SERHAN SEYHAN",
+        "marka": "-",
+        "sebep": "SIZMA ZEYTİNYAĞI (1,5 LİTRE)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "SEZGİN ÇETİN-VKB TARIM ÜRÜNLERİ",
+        "marka": "ASIR TARIM KÖYBİRLİK",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI (5 LİTRE)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "EFE TV ORGANİC DOĞAL ÜRÜNLER-SERHAN SEYHAN",
+        "marka": "-",
+        "sebep": "SIZMA ZEYTİNYAĞI (18 LT)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "EFE TV ORGANİC DOĞAL ÜRÜNLER-SERHAN SEYHAN",
+        "marka": "EFE TV ORGANİC EGEDEN KAPINIZA GELEN LEZZET",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI (5 LİTRE)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "EFE TV ORGANİC DOĞAL ÜRÜNLER-SERHAN SEYHAN",
+        "marka": "EFE TV ORGANİC",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI (5 LİTRE)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "EFE TV ORGANİC DOĞAL ÜRÜNLER-SERHAN SEYHAN",
+        "marka": "-",
+        "sebep": "SIZMA ZEYTİNYAĞI (5 LT)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "AKA ÇİFTLİĞİ MANDIRA&ŞARKÜTERİ-SERKAN AKA",
+        "marka": "KUZEY EGE AYVALIK",
+        "sebep": "SOĞUK SIKIM TAŞ BASKI NATÜREL SIZMA ZEYTİNYAĞI-5 LT",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "HİLAL HAYVANSAL ÜRÜNLER YEM SÜT VE SÜT ÜRÜNLERİ TOPTAN TİCARETİ LİMİTED ŞİRKETİ",
+        "marka": "AYVALIK",
+        "sebep": "NATÜREL SIZMA ZEYTİNYAĞI-1000 ML",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "ÖZGÜR CERENAY OZAN ZEYTİNCİLİK-ÖZGÜR AY",
+        "marka": "CERENAY",
+        "sebep": "NATÜREL SIZMA ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "KARASU TİCARET-CEMAL KARASU",
+        "marka": "ŞİRİNCE TAT",
+        "sebep": "SOĞUK SIKIM NATUREL SIZMA ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "EFE TV ORGANİC DOĞAL ÜRÜNLER-SERHAN SEYHAN",
+        "marka": "-",
+        "sebep": "BAL (900 GR)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "HASTÜRK GIDA OTOMOTİV İNŞAAT EMLAK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "VİTAMEL",
+        "sebep": "SÜZME ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "29.01.2026",
+        "urun": "MND KAHVALTILIK GIDA SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "LOKMAN 1984",
+        "sebep": "SÜZME ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
         "firma": "08.01.2026",
