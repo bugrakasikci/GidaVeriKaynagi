@@ -1289,14 +1289,6 @@
     },
     {
         "firma": "25.12.2025",
-        "urun": "MERTER BAL TAHİN GIDA TEKSTİL İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "MERTER",
-        "sebep": "SÜZME ÇİÇEK BALI (DÖKME)",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
         "urun": "ECRİN GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ",
         "marka": "ECRİN",
         "sebep": "SÜZME ÇİÇEK BAL",
@@ -3908,14 +3900,6 @@
         "urun": "AKAR BAL-GÖKDAĞ KARAYAKA",
         "marka": "AKAR NATURAL BAL",
         "sebep": "TEMEL PETEKLİ SÜZME BAL-385 G",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "MERTER BAL TAHİN GIDA TEKSTİL İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "MERTER",
-        "sebep": "SÜZME ÇİÇEK BALI (DÖKME)",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 2 (Tağşiş)"
     },
