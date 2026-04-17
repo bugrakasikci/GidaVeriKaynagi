@@ -1,5 +1,53 @@
 [
     {
+        "firma": "16.04.2026",
+        "urun": "DÖNERCİ ALİ'NİN YERİ-AYSEL YETİŞKİN",
+        "marka": "-",
+        "sebep": "DANA PİDE HARCI (ÇİĞ)",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "MMİ İLAÇ GIDA KOZMETİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "DİBLONG",
+        "sebep": "BİTKİSEL KARIŞIMLI ÇİKOLATA",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "MMİ İLAÇ GIDA KOZMETİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "DİBLONG",
+        "sebep": "GİNSENG MACUN",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "KURUDERE KURBAN BAHARAT-AYŞE YERLİKAYA",
+        "marka": "HEYBETLİ",
+        "sebep": "BALLI ÇAKŞIR KÖKÜ MACUN",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "SANİTA TARIM ÜRÜNLERİ BAHARAT KOZMETİK SANAYİ TİCARET ANONİM ŞİRKETİ",
+        "marka": "SANİTA",
+        "sebep": "TATLI TOZ BİBER-1000 GR (SANİTA TATLI TOZ KURHAN)",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "MMİ İLAÇ GIDA KOZMETİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "DİBLONG",
+        "sebep": "GİNSENGLİ TUTTİ FRUTTİ AROMALI GAZLI İÇECEK 150 ML",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
         "firma": "02.04.2026",
         "urun": "MMİ İLAÇ GIDA KOZMETİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
         "marka": "THE JESTEA CAPSUL",
@@ -334,6 +382,158 @@
         "sebep": "YARI MAMUL PARÇALANMIŞ BİBER",
         "kategori": "Sağlık Tehlikesi",
         "alt_liste": ""
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "ZEYTUNAOĞLU TATLI VE GIDA ÜRÜNLERİ İTHALAT İHRACAT DIŞ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "FISTIKLI SARMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "GÜLSEREN KURT",
+        "marka": "-",
+        "sebep": "TEREYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "HAS MANİSA KEBAP-SEYHAN ÖZBEKİN",
+        "marka": "-",
+        "sebep": "MANİSA KEBAP (ÇİĞ-DANA ETİNDEN)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "HARBİYE DC FUARCILIK ORGANİZASYON EĞİTİM DANIŞMANLIK TİCARET LİMİTED ŞİRKETİ-SEYYAR TEZGAH (ESKİ ÜNVANI: HARBİYE DC GIDA TEKS. KOZ. OTO TAŞ. SAN. TİC. LTD. ŞTİ.)",
+        "marka": "-",
+        "sebep": "HARBİYE KEBABI (PİLİÇ BONFİLEDEN HAZIRLANMIŞ KEBAP ÇİĞ HARCI)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "YNS ET MAMÜLLERİ GIDA MADDELERİ PAZARLAMA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "NEFİSSAL",
+        "sebep": "DANA ETLİ PİLİÇ KASAP KÖFTE HAZIRLANMIŞ KANATLI ETİ KARIŞIMI (DONDURULMUŞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "YNS ET MAMÜLLERİ GIDA MADDELERİ PAZARLAMA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "NEFİSSAL",
+        "sebep": "PARMAK PİLİÇ KÖFTE ISIL İŞLEM UYGULANMIŞ PİLİÇ ETİ ÜRÜNÜ (PİŞMİŞ&DONDURULMUŞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "DNC ET ÜRÜNLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ-(ESKİ ÜNVANI: ARDA ET ÜRÜNLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ)",
+        "marka": "HAKİMİYET",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ KUVEZ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "ZİRVE SUCUK VE PASTIRMA-RAMAZAN HELVACI",
+        "marka": "ZİRVE",
+        "sebep": "PREMİUM DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "KISMETOĞLU BEYTİ ET VE ET ÜRÜNLERİ-BEYTULLAH YEŞİLÇAYIR",
+        "marka": "LEZZETİ KEYİF",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "BATI PİDE KEBAP SALONU-OSMAN ÖZKUTLU",
+        "marka": "-",
+        "sebep": "DANA KIYMALI PİDE İÇ HARCI (ÇİĞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "URFA CİĞER KEBAP PİDE SALONU (PİDE VE ÖTESİ)-HİCRAN YOLAÇAN",
+        "marka": "-",
+        "sebep": "URFA KEBAP (ÇİĞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "PERİ PİDE LAHMACUN VE IZGARA SALONU-NURİYE ÇALIŞCI",
+        "marka": "-",
+        "sebep": "PİDE İÇ HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "KAMBUROĞLU TARIM OTOMOTİV VE ENERJİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "KAMBUROĞLU",
+        "sebep": "NATÜREL SIZMA ZEYTİNYAĞI-750 ML",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "ÖZ DEDEOĞLU GRUP GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "TVK TARIM",
+        "sebep": "NATURETL SIZMA ZETİNYAĞI (5 LİTRE)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "KİMPLUS KİMYA PLASTİK GIDA TEMİZLİK PEYZAJ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "GÜNEY EGEDEN",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI 5 L",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "DGL GIDA-ENES ÇELİK",
+        "marka": "DGL GIDA",
+        "sebep": "DOĞADAN GELEN LEZZET NATUREL SIZMA ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "DGL GIDA-ENES ÇELİK",
+        "marka": "DGL GIDA",
+        "sebep": "OLİVERA GOLD NATUREL SIZMA ERKEN HASAT ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "YAYLA BALPINARI GIDA TARIM AMBALAJ PAZARLAMA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "NATURAL SÜZME ÇİÇEK BALI-1000 GR",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "ÇATLILAR GIDA-VEHBİ YEŞİL",
+        "marka": "ÇATLILAR",
+        "sebep": "SÜZME ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
     },
     {
         "firma": "02.04.2026",
@@ -2926,6 +3126,158 @@
         "sebep": "-",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "ZEYTUNAOĞLU TATLI VE GIDA ÜRÜNLERİ İTHALAT İHRACAT DIŞ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "FISTIKLI SARMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "GÜLSEREN KURT",
+        "marka": "-",
+        "sebep": "TEREYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "HAS MANİSA KEBAP-SEYHAN ÖZBEKİN",
+        "marka": "-",
+        "sebep": "MANİSA KEBAP (ÇİĞ-DANA ETİNDEN)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "HARBİYE DC FUARCILIK ORGANİZASYON EĞİTİM DANIŞMANLIK TİCARET LİMİTED ŞİRKETİ-SEYYAR TEZGAH (ESKİ ÜNVANI: HARBİYE DC GIDA TEKS. KOZ. OTO TAŞ. SAN. TİC. LTD. ŞTİ.)",
+        "marka": "-",
+        "sebep": "HARBİYE KEBABI (PİLİÇ BONFİLEDEN HAZIRLANMIŞ KEBAP ÇİĞ HARCI)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "YNS ET MAMÜLLERİ GIDA MADDELERİ PAZARLAMA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "NEFİSSAL",
+        "sebep": "DANA ETLİ PİLİÇ KASAP KÖFTE HAZIRLANMIŞ KANATLI ETİ KARIŞIMI (DONDURULMUŞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "YNS ET MAMÜLLERİ GIDA MADDELERİ PAZARLAMA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "NEFİSSAL",
+        "sebep": "PARMAK PİLİÇ KÖFTE ISIL İŞLEM UYGULANMIŞ PİLİÇ ETİ ÜRÜNÜ (PİŞMİŞ&DONDURULMUŞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "DNC ET ÜRÜNLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ-(ESKİ ÜNVANI: ARDA ET ÜRÜNLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ)",
+        "marka": "HAKİMİYET",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ KUVEZ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "ZİRVE SUCUK VE PASTIRMA-RAMAZAN HELVACI",
+        "marka": "ZİRVE",
+        "sebep": "PREMİUM DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "KISMETOĞLU BEYTİ ET VE ET ÜRÜNLERİ-BEYTULLAH YEŞİLÇAYIR",
+        "marka": "LEZZETİ KEYİF",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "BATI PİDE KEBAP SALONU-OSMAN ÖZKUTLU",
+        "marka": "-",
+        "sebep": "DANA KIYMALI PİDE İÇ HARCI (ÇİĞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "URFA CİĞER KEBAP PİDE SALONU (PİDE VE ÖTESİ)-HİCRAN YOLAÇAN",
+        "marka": "-",
+        "sebep": "URFA KEBAP (ÇİĞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "PERİ PİDE LAHMACUN VE IZGARA SALONU-NURİYE ÇALIŞCI",
+        "marka": "-",
+        "sebep": "PİDE İÇ HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "KAMBUROĞLU TARIM OTOMOTİV VE ENERJİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "KAMBUROĞLU",
+        "sebep": "NATÜREL SIZMA ZEYTİNYAĞI-750 ML",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "ÖZ DEDEOĞLU GRUP GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "TVK TARIM",
+        "sebep": "NATURETL SIZMA ZETİNYAĞI (5 LİTRE)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "KİMPLUS KİMYA PLASTİK GIDA TEMİZLİK PEYZAJ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "GÜNEY EGEDEN",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI 5 L",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "DGL GIDA-ENES ÇELİK",
+        "marka": "DGL GIDA",
+        "sebep": "DOĞADAN GELEN LEZZET NATUREL SIZMA ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "DGL GIDA-ENES ÇELİK",
+        "marka": "DGL GIDA",
+        "sebep": "OLİVERA GOLD NATUREL SIZMA ERKEN HASAT ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "YAYLA BALPINARI GIDA TARIM AMBALAJ PAZARLAMA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "NATURAL SÜZME ÇİÇEK BALI-1000 GR",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "16.04.2026",
+        "urun": "ÇATLILAR GIDA-VEHBİ YEŞİL",
+        "marka": "ÇATLILAR",
+        "sebep": "SÜZME ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
         "firma": "02.04.2026",
