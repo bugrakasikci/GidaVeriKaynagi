@@ -1,5 +1,29 @@
 [
     {
+        "firma": "22.04.2026",
+        "urun": "GÖKSEL YEMEKÇİLİK NARENCİYE GIDA NAKLİYE TURİZM TAAHHÜT SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "PİŞMİŞ KIRMIZI ET",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "22.04.2026",
+        "urun": "ONUR TANTUNİ-MİKAİL BOZCE",
+        "marka": "-",
+        "sebep": "PİŞMİŞ KIRMIZI ET",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "22.04.2026",
+        "urun": "PEKMEZ DÜNYASI GIDA PAZARLAMA SANAYİ VE DIŞ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "PEKMEZ DÜNYASI",
+        "sebep": "BİTKİSEL KARIŞIMLI MACUN",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
         "firma": "16.04.2026",
         "urun": "DÖNERCİ ALİ'NİN YERİ-AYSEL YETİŞKİN",
         "marka": "-",
@@ -376,12 +400,68 @@
         "alt_liste": ""
     },
     {
-        "firma": "22.10.2025",
-        "urun": "YSD BAHARAT SANAYİ LİMİTED ŞİRKETİ",
+        "firma": "22.04.2026",
+        "urun": "AHMET TOPALOĞLU-KARADAĞ SÜT ÜRÜNLERİ",
+        "marka": "ÖZVARLI SÜT ÜRÜNLERİ",
+        "sebep": "TEREYAĞ PASTÖRİZE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.04.2026",
+        "urun": "DAMAR SÜT VE SÜT ÜRÜNLERİ HUBUBAT KUYUMCULUK TEKSTİL TAŞIMACILIK TARIM ÜRÜNLERİ SANAYİ TİC.LTD.ŞTİ.",
+        "marka": "DAMAR",
+        "sebep": "KAYMAKLI YOĞURT",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.04.2026",
+        "urun": "BALMİO SÜT ÜRÜNLERİ TİCARET-MEHMET KARAOĞLAN",
+        "marka": "MUHİTTİNOĞLU",
+        "sebep": "HOMOJENİZE YOĞURT",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.04.2026",
+        "urun": "ÇİĞDEM KUZDERE",
         "marka": "-",
-        "sebep": "YARI MAMUL PARÇALANMIŞ BİBER",
-        "kategori": "Sağlık Tehlikesi",
-        "alt_liste": ""
+        "sebep": "TEREYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.04.2026",
+        "urun": "EROĞLU YEMEKÇİLİK GIDA İNŞAAT TAAHHÜT OTOMOTİV SANAYİ VE TİCARET LİMİTED ŞİRKETİ-EROĞLU GROUP",
+        "marka": "-",
+        "sebep": "PİŞMİŞ LAHMACUN",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.04.2026",
+        "urun": "KAMAŞ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "KAMAŞ",
+        "sebep": "SUMAK-1 KG",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.04.2026",
+        "urun": "GÜLSAN GIDA SANAYİ TİCARET ANONİM ŞİRKETİ",
+        "marka": "BALBAZAR",
+        "sebep": "SÜZME ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.04.2026",
+        "urun": "GÜLSAN GIDA SANAYİ TİCARET ANONİM ŞİRKETİ",
+        "marka": "GÜLSAN",
+        "sebep": "SÜZME ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
     },
     {
         "firma": "16.04.2026",
@@ -2976,156 +3056,68 @@
         "alt_liste": "Liste 1 (Taklit)"
     },
     {
-        "firma": "22.10.2025",
-        "urun": "KÖYÜM TARHANA-ZELİHA ÇIKRIKCI",
-        "marka": "KÖYÜM",
-        "sebep": "TARHANA",
+        "firma": "22.04.2026",
+        "urun": "AHMET TOPALOĞLU-KARADAĞ SÜT ÜRÜNLERİ",
+        "marka": "ÖZVARLI SÜT ÜRÜNLERİ",
+        "sebep": "TEREYAĞ PASTÖRİZE",
         "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
-        "firma": "22.10.2025",
-        "urun": "KÖYÜM TARHANA-ZELİHA ÇIKRIKCI",
-        "marka": "KÖYÜM",
-        "sebep": "TARHANA",
+        "firma": "22.04.2026",
+        "urun": "DAMAR SÜT VE SÜT ÜRÜNLERİ HUBUBAT KUYUMCULUK TEKSTİL TAŞIMACILIK TARIM ÜRÜNLERİ SANAYİ TİC.LTD.ŞTİ.",
+        "marka": "DAMAR",
+        "sebep": "KAYMAKLI YOĞURT",
         "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
-        "firma": "22.10.2025",
-        "urun": "ADEM VE CELAL UNLU MAMULLERİ-SATİYE BAKIR",
-        "marka": "ADEM CELAL GIDA",
-        "sebep": "DOĞAL KÖY TARHANASI",
+        "firma": "22.04.2026",
+        "urun": "BALMİO SÜT ÜRÜNLERİ TİCARET-MEHMET KARAOĞLAN",
+        "marka": "MUHİTTİNOĞLU",
+        "sebep": "HOMOJENİZE YOĞURT",
         "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
-        "firma": "22.10.2025",
-        "urun": "ERTÜRK ET VE ET ÜRÜNLERİ GIDA VE GIDA KATKI MADDELERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "AFYON KEYF-İ SUCUK",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "ERTÜRK ET VE ET ÜRÜNLERİ GIDA VE GIDA KATKI MADDELERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "AFYONKARAHİSAR TÜTÜNCÜOĞLU",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "ERTÜRK ET VE ET ÜRÜNLERİ GIDA VE GIDA KATKI MADDELERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "AFYONKARAHİSAR SOYLUTÜRK ET VE ET ÜRÜNLERİ",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "ERTÜRK ET VE ET ÜRÜNLERİ GIDA VE GIDA KATKI MADDELERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "AFYONKARAHİSAR CEYLANER SUCUKLARI",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "ERTÜRK ET VE ET ÜRÜNLERİ GIDA VE GIDA KATKI MADDELERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "AFYON GÜÇ BİRLİĞİ",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "ERTÜRK ET VE ET ÜRÜNLERİ GIDA VE GIDA KATKI MADDELERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "AFYONKARAHİSAR KOCATÜRK",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "AKYILDIZ TİCARET-ŞEFİKA AKYILDIZ",
-        "marka": "KARACAHİSAR",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "TAT ENTEGRE ET ÜRÜNLERİ TARIM GIDA MADEN SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "KÖYET",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "ALTIN BÖREK-SELİM EKİCİ",
+        "firma": "22.04.2026",
+        "urun": "ÇİĞDEM KUZDERE",
         "marka": "-",
-        "sebep": "KIYMALI KOL BÖREĞİ (DÖKME)",
+        "sebep": "TEREYAĞI",
         "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
-        "firma": "22.10.2025",
-        "urun": "EHL-İ DÖNER-BAYRAM ÇİVİ",
+        "firma": "22.04.2026",
+        "urun": "EROĞLU YEMEKÇİLİK GIDA İNŞAAT TAAHHÜT OTOMOTİV SANAYİ VE TİCARET LİMİTED ŞİRKETİ-EROĞLU GROUP",
         "marka": "-",
-        "sebep": "DANA IZGARA KÖFTE (DÖKME)",
+        "sebep": "PİŞMİŞ LAHMACUN",
         "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
-        "firma": "22.10.2025",
-        "urun": "ANTEPLİİ ET-ALİ ARPAÇ",
-        "marka": "-",
-        "sebep": "LAHMACUN HARCI (DANA – KUZU)",
+        "firma": "22.04.2026",
+        "urun": "KAMAŞ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "KAMAŞ",
+        "sebep": "SUMAK-1 KG",
         "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
-        "firma": "22.10.2025",
-        "urun": "BEYMİR İLKNUR GIDA TURİZM PLASTİK İÇECEK TAŞIMACILIK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "KADİRZADE",
-        "sebep": "KEKİK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "KORCAN TARIM VE ORMAN ÜRÜNLERİ GIDA MADDELERİ BİLGİSAYAR HİZMETLERİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "KORCAN",
-        "sebep": "TATLI BİBER",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "HASTÜRK GIDA OTOMOTİV İNŞAAT EMLAK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
-        "marka": "HASKAYMAK",
+        "firma": "22.04.2026",
+        "urun": "GÜLSAN GIDA SANAYİ TİCARET ANONİM ŞİRKETİ",
+        "marka": "BALBAZAR",
         "sebep": "SÜZME ÇİÇEK BALI",
         "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
-        "firma": "22.10.2025",
-        "urun": "AYAL GIDA-ÖZLEM GÜMÜŞ",
-        "marka": "ERZİNCAN YALÇIN BAL",
-        "sebep": "PETEKLİ ÇİÇEK BALI",
+        "firma": "22.04.2026",
+        "urun": "GÜLSAN GIDA SANAYİ TİCARET ANONİM ŞİRKETİ",
+        "marka": "GÜLSAN",
+        "sebep": "SÜZME ÇİÇEK BALI",
         "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "ANKARA 3. IDARE MAHKEMESI ESAS NO : 2025/1703 dava dosyasına ilişkin olarak alınan Mahkeme Kararı'nca idarece yaptırılan analiz sonuçlarının yayımlanmasının durdurulması istemiyle yapılan basvurunun reddine iliskin Ankara Valiligi Il Tarım ve Müdürlügünün E-97832715-622.01-21787654 sayılı isleminin YÜRÜTMESININ DURDURULMASINA karar verilmiştir.",
-        "marka": "-",
-        "sebep": "-",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
         "firma": "16.04.2026",
@@ -5716,158 +5708,6 @@
         "urun": "BİR ÇINAR GIDA LİMİTED ŞİRKETİ",
         "marka": "BİR ÇINAR",
         "sebep": "YARIM YAĞLI YOĞURT",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "KÖYÜM TARHANA-ZELİHA ÇIKRIKCI",
-        "marka": "KÖYÜM",
-        "sebep": "TARHANA",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "KÖYÜM TARHANA-ZELİHA ÇIKRIKCI",
-        "marka": "KÖYÜM",
-        "sebep": "TARHANA",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "ADEM VE CELAL UNLU MAMULLERİ-SATİYE BAKIR",
-        "marka": "ADEM CELAL GIDA",
-        "sebep": "DOĞAL KÖY TARHANASI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "ERTÜRK ET VE ET ÜRÜNLERİ GIDA VE GIDA KATKI MADDELERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "AFYON KEYF-İ SUCUK",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "ERTÜRK ET VE ET ÜRÜNLERİ GIDA VE GIDA KATKI MADDELERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "AFYONKARAHİSAR TÜTÜNCÜOĞLU",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "ERTÜRK ET VE ET ÜRÜNLERİ GIDA VE GIDA KATKI MADDELERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "AFYONKARAHİSAR SOYLUTÜRK ET VE ET ÜRÜNLERİ",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "ERTÜRK ET VE ET ÜRÜNLERİ GIDA VE GIDA KATKI MADDELERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "AFYONKARAHİSAR CEYLANER SUCUKLARI",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "ERTÜRK ET VE ET ÜRÜNLERİ GIDA VE GIDA KATKI MADDELERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "AFYON GÜÇ BİRLİĞİ",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "ERTÜRK ET VE ET ÜRÜNLERİ GIDA VE GIDA KATKI MADDELERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "AFYONKARAHİSAR KOCATÜRK",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "AKYILDIZ TİCARET-ŞEFİKA AKYILDIZ",
-        "marka": "KARACAHİSAR",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "TAT ENTEGRE ET ÜRÜNLERİ TARIM GIDA MADEN SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "KÖYET",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "ALTIN BÖREK-SELİM EKİCİ",
-        "marka": "-",
-        "sebep": "KIYMALI KOL BÖREĞİ (DÖKME)",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "EHL-İ DÖNER-BAYRAM ÇİVİ",
-        "marka": "-",
-        "sebep": "DANA IZGARA KÖFTE (DÖKME)",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "ANTEPLİİ ET-ALİ ARPAÇ",
-        "marka": "-",
-        "sebep": "LAHMACUN HARCI (DANA – KUZU)",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "BEYMİR İLKNUR GIDA TURİZM PLASTİK İÇECEK TAŞIMACILIK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "KADİRZADE",
-        "sebep": "KEKİK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "KORCAN TARIM VE ORMAN ÜRÜNLERİ GIDA MADDELERİ BİLGİSAYAR HİZMETLERİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "KORCAN",
-        "sebep": "TATLI BİBER",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "HASTÜRK GIDA OTOMOTİV İNŞAAT EMLAK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
-        "marka": "HASKAYMAK",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "AYAL GIDA-ÖZLEM GÜMÜŞ",
-        "marka": "ERZİNCAN YALÇIN BAL",
-        "sebep": "PETEKLİ ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.10.2025",
-        "urun": "ANKARA 3. IDARE MAHKEMESI ESAS NO : 2025/1703 dava dosyasına ilişkin olarak alınan Mahkeme Kararı'nca idarece yaptırılan analiz sonuçlarının yayımlanmasının durdurulması istemiyle yapılan basvurunun reddine iliskin Ankara Valiligi Il Tarım ve Müdürlügünün E-97832715-622.01-21787654 sayılı isleminin YÜRÜTMESININ DURDURULMASINA karar verilmiştir.",
-        "marka": "-",
-        "sebep": "-",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 2 (Tağşiş)"
     }
