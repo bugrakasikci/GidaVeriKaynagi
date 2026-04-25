@@ -3040,22 +3040,6 @@
         "alt_liste": "Liste 1 (Taklit)"
     },
     {
-        "firma": "24.10.2025",
-        "urun": "MONİ SÜT VE SÜT ÜRÜNLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "BEY&EN",
-        "sebep": "RENDE TAM YAĞLI TAZE MOZARELLA PEYNİRİ 2000 G",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "24.10.2025",
-        "urun": "BİR ÇINAR GIDA LİMİTED ŞİRKETİ",
-        "marka": "BİR ÇINAR",
-        "sebep": "YARIM YAĞLI YOĞURT",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
         "firma": "22.04.2026",
         "urun": "AHMET TOPALOĞLU-KARADAĞ SÜT ÜRÜNLERİ",
         "marka": "ÖZVARLI SÜT ÜRÜNLERİ",
@@ -5692,22 +5676,6 @@
         "urun": "NÜKTEGIDA-OKTAY NÜKTE",
         "marka": "NÜKTE GIDA SANAYİ",
         "sebep": "NÜKTE TAŞ BASKI ZEYTİNYAĞI 0.4 DİZEM SOĞUK SIKIM",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "24.10.2025",
-        "urun": "MONİ SÜT VE SÜT ÜRÜNLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "BEY&EN",
-        "sebep": "RENDE TAM YAĞLI TAZE MOZARELLA PEYNİRİ 2000 G",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "24.10.2025",
-        "urun": "BİR ÇINAR GIDA LİMİTED ŞİRKETİ",
-        "marka": "BİR ÇINAR",
-        "sebep": "YARIM YAĞLI YOĞURT",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 2 (Tağşiş)"
     }
