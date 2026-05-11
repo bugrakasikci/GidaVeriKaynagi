@@ -384,14 +384,6 @@
         "alt_liste": ""
     },
     {
-        "firma": "10.11.2025",
-        "urun": "ŞENTEK ORGANİZASYON TEKSTİL İNŞAAT TEMİZLİK MALZEMELERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ- XOFT İLAÇ SANAYİ VE TİCARET A.Ş.",
-        "marka": "JETPLUS MAXİMUM PERFORMANCE",
-        "sebep": "MACUN",
-        "kategori": "Sağlık Tehlikesi",
-        "alt_liste": ""
-    },
-    {
         "firma": "22.04.2026",
         "urun": "AHMET TOPALOĞLU-KARADAĞ SÜT ÜRÜNLERİ",
         "marka": "ÖZVARLI SÜT ÜRÜNLERİ",
@@ -2872,22 +2864,6 @@
         "alt_liste": "Liste 1 (Taklit)"
     },
     {
-        "firma": "10.11.2025",
-        "urun": "ADNAN AKIN-ÖZ AKÇAY GIDA PAZARLAMA",
-        "marka": "ÖZ AKÇAY ALTIN YAPRAK",
-        "sebep": "SİYAH ÇAY",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "10.11.2025",
-        "urun": "ADNAN AKIN-ÖZ AKÇAY GIDA PAZARLAMA",
-        "marka": "ÖZ AKÇAY",
-        "sebep": "FİLİZ SİYAH ÇAY",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
         "firma": "22.04.2026",
         "urun": "AHMET TOPALOĞLU-KARADAĞ SÜT ÜRÜNLERİ",
         "marka": "ÖZVARLI SÜT ÜRÜNLERİ",
@@ -5364,22 +5340,6 @@
         "urun": "KONYALILAR ETLİEKMEK SALONU-CEVDET KOÇ",
         "marka": "-",
         "sebep": "ETLİEKMEK İÇ HARCI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "10.11.2025",
-        "urun": "ADNAN AKIN-ÖZ AKÇAY GIDA PAZARLAMA",
-        "marka": "ÖZ AKÇAY ALTIN YAPRAK",
-        "sebep": "SİYAH ÇAY",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "10.11.2025",
-        "urun": "ADNAN AKIN-ÖZ AKÇAY GIDA PAZARLAMA",
-        "marka": "ÖZ AKÇAY",
-        "sebep": "FİLİZ SİYAH ÇAY",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 2 (Tağşiş)"
     }
