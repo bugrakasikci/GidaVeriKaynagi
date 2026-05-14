@@ -368,14 +368,6 @@
         "alt_liste": ""
     },
     {
-        "firma": "13.11.2025",
-        "urun": "CENTUAR GIDA İLAÇ KOZMETİK VE KUYUMCULUK SANAYİ TİCARET ANONİM ŞİRKETİ",
-        "marka": "BOLLD EXTRA CHOCOLATE",
-        "sebep": "EPİMEDYUM VE KIRMIZI GİNSENGLİ BİTKİ KARIŞIMLI ÇİKOLATA",
-        "kategori": "Sağlık Tehlikesi",
-        "alt_liste": ""
-    },
-    {
         "firma": "22.04.2026",
         "urun": "AHMET TOPALOĞLU-KARADAĞ SÜT ÜRÜNLERİ",
         "marka": "ÖZVARLI SÜT ÜRÜNLERİ",
@@ -2544,30 +2536,6 @@
         "alt_liste": "Liste 1 (Taklit)"
     },
     {
-        "firma": "13.11.2025",
-        "urun": "AKAR BAL-GÖKDAĞ KARAYAKA",
-        "marka": "ELİT",
-        "sebep": "SÜZME ÇİÇEK BALI-NET: 20 KG",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "13.11.2025",
-        "urun": "HASTÜRK GIDA OTOMOTİV İNŞAAT EMLAK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
-        "marka": "VİTAMEL",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "13.11.2025",
-        "urun": "GİMSA PERAKENDE GIDA SANAYİ VE TİCARET ANONİM ŞİRKETİ",
-        "marka": "GİMSAŞ",
-        "sebep": "PETEK BAL",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
         "firma": "22.04.2026",
         "urun": "AHMET TOPALOĞLU-KARADAĞ SÜT ÜRÜNLERİ",
         "marka": "ÖZVARLI SÜT ÜRÜNLERİ",
@@ -4732,30 +4700,6 @@
         "urun": "Ankara Bölge İdare Mahkemesi tarafından yürütmenin durdurulmasına karar verilmiştir.",
         "marka": "-",
         "sebep": "-",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "13.11.2025",
-        "urun": "AKAR BAL-GÖKDAĞ KARAYAKA",
-        "marka": "ELİT",
-        "sebep": "SÜZME ÇİÇEK BALI-NET: 20 KG",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "13.11.2025",
-        "urun": "HASTÜRK GIDA OTOMOTİV İNŞAAT EMLAK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
-        "marka": "VİTAMEL",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "13.11.2025",
-        "urun": "GİMSA PERAKENDE GIDA SANAYİ VE TİCARET ANONİM ŞİRKETİ",
-        "marka": "GİMSAŞ",
-        "sebep": "PETEK BAL",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 2 (Tağşiş)"
     }
