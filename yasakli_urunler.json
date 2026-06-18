@@ -1650,6 +1650,14 @@
     {
         "firma": "12.03.2026",
         "urun": "BALDAĞ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "BALDAĞI",
+        "sebep": "SÜZME ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "12.03.2026",
+        "urun": "BALDAĞ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
         "marka": "CANPETEK ERZİNCAN",
         "sebep": "SÜZME ÇİÇEK BALI",
         "kategori": "Taklit/Tağşiş",
@@ -3971,6 +3979,14 @@
         "firma": "12.03.2026",
         "urun": "GOLDEN LİFE GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
         "marka": "ANADOLU",
+        "sebep": "SÜZME ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "12.03.2026",
+        "urun": "BALDAĞ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "BALDAĞI",
         "sebep": "SÜZME ÇİÇEK BALI",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 2 (Tağşiş)"
