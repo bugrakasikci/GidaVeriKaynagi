@@ -1,5 +1,85 @@
 [
     {
+        "firma": "18.06.2026",
+        "urun": "CENEVİZ GIDA VE KİMYA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "CENEVİZ",
+        "sebep": "DOĞAL KIRMIZI %10 SU BAZLI NATUREL RED (RENKLENDİRİCİ)",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "YUGA DIŞ TİCARET-YUNUS GAZİOĞLU",
+        "marka": "POLYFOODİNG",
+        "sebep": "HİBİSCUS (RENKLENDİRİCİ)",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "LÖP LÖP GIDA-NİLGÜN BİLDİRİCİ",
+        "marka": "LÖP LÖP",
+        "sebep": "İÇLİ KÖFTE",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "ÖZ ŞAMEDAN YEMEKÇİLİK CATERING-SÜLEYMAN DAĞ",
+        "marka": "-",
+        "sebep": "DANA ETİ KAVURMA",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "OKKAS GIDA KOZMETİK ÜRETİM SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "DİBLONG",
+        "sebep": "GİNSENG CHOCOLATE FOR MEN",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "SİDRA GIDA VE İNŞAAT TAAHHÜT SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "MYSEM LİFE",
+        "sebep": "BİTKİSEL KARIŞIM MACUN (240 G)",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "ADA ÇAY SANAYİ PAZARLAMA VE DIŞ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "BEHİÇ ÇAY EXPORT SİYAH ÇAY",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "TİREBOLU ÇAYSAN ÇAY SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "ELMAS",
+        "sebep": "DEMLİK POŞET SİYAH ÇAY",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "ELHAYER GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "ALADEEP",
+        "sebep": "SUMAK",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "ERBALCI TİCARET-YUSUF ERBALCI",
+        "marka": "ERBALCI BAHARAT",
+        "sebep": "SUMAK",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
         "firma": "01.06.2026",
         "urun": "FİTO FARMA İLAÇ İÇECEK KOZMETİK VE KİMYA SANAYİ TİCARET LİMİTED ŞİRKETİ",
         "marka": "YAĞIZ",
@@ -422,6 +502,142 @@
         "sebep": "KIRMIZI TOZ BİBER",
         "kategori": "Sağlık Tehlikesi",
         "alt_liste": ""
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "BOZCAN GIDA TEMİZLİK HAYVANCILIK YEM VE İNŞAAT SANAYİ TİCARET LİMİTED ŞİRKETİ-KOÇ SÜT VE SÜT ÜRÜNLERİ",
+        "marka": "BİLAL KOÇ SÜT VE SÜT ÜRÜNLERİ",
+        "sebep": "TUZLU TEREYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "YOĞURTÇU İDRİS-MURAT USTURUMCALI",
+        "marka": "YOĞURTÇU İDRİS",
+        "sebep": "TAM YAĞLI KAYMAKLI YOĞURT 500 G",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "EŞME YEM SÜT VE SÜT ÜRÜNLERİ TARIM HAYVANCILIK NAKLİYE İTHALAT İHRACAT SANAYİ VE TİCARET LTD.ŞTİ.",
+        "marka": "ÇAMOLUK",
+        "sebep": "KAŞAR PEYNİRİ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "SERVİN SENA ESLİK-CANKURT ET VE ET MAMULLERİ TİCARETİ",
+        "marka": "MANDIRA ŞEFİ",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "YAKUPAĞA ET VE ET ÜRÜNLERİ HAYVANCILIK TARIM ÜRÜNLERİ GIDA PAZARLAMA İTHALAT İHR.TİC.VE SAN.LTD.ŞTİ.",
+        "marka": "YAKUPAĞA SUCUKLARI",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "GÖKHAN KAYAR ET VE ET ÜRÜNLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "GÖKHAN KAYAR",
+        "sebep": "KASAP KANGAL DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "RATU BURGER-RAMİZ SERHAT ÖZTÜRK",
+        "marka": "-",
+        "sebep": "HAMBURGER KÖFTE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "İNCİRALTI KEBAP EVİ-MEHMET TEKDAL",
+        "marka": "-",
+        "sebep": "ADANA KEBAP (ÇİĞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "07 EMİR ET-ZEHRA SÖYÜÇEN",
+        "marka": "-",
+        "sebep": "DANA KIYMA (ÇİĞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "KARDEŞLER KEBAP SALONU YENİ-YUSUF KAYA",
+        "marka": "-",
+        "sebep": "ADANA KEBAP (ÇİĞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "CİĞERCİ CANO-İBRAHİM ÖNDER",
+        "marka": "-",
+        "sebep": "ÇİĞ ADANA KEBABI (DANA+KUZU ETİ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "M GOLD ET ÜRÜNLERİ GIDA TEKSTİL SANAYİ VE TİCARET LİMİTED ŞİRKETİ-M.CEYLANLAR KASABI",
+        "marka": "-",
+        "sebep": "ÇİĞ DANA KIYMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "DÜRÜMCÜ İZZET-MİTHAT DEMİR",
+        "marka": "-",
+        "sebep": "ADANA KEBAP",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "SEZGİNLER OCAKBAŞI-BEŞİR SEZGİN",
+        "marka": "-",
+        "sebep": "DANA VE KUZU ETLİ ADANA KEBAP (ÇİĞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "COŞKAR YAĞ GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "ZEYTİNOVAM AYVALIK SERİSİ",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "ÇOBANOĞLU GIDA-ÖZAL ÇOBAN",
+        "marka": "NUR CEYLAN ERZİNCAN",
+        "sebep": "ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "CEYSAN PAKETLEME VE AMBALAJ ÜRETİM SANAYİ ANONİM ŞİRKETİ",
+        "marka": "BAL CENNETİ ERZİNCAN",
+        "sebep": "SÜZME ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
     },
     {
         "firma": "01.06.2026",
@@ -2758,6 +2974,142 @@
         "sebep": "BAL",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "BOZCAN GIDA TEMİZLİK HAYVANCILIK YEM VE İNŞAAT SANAYİ TİCARET LİMİTED ŞİRKETİ-KOÇ SÜT VE SÜT ÜRÜNLERİ",
+        "marka": "BİLAL KOÇ SÜT VE SÜT ÜRÜNLERİ",
+        "sebep": "TUZLU TEREYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "YOĞURTÇU İDRİS-MURAT USTURUMCALI",
+        "marka": "YOĞURTÇU İDRİS",
+        "sebep": "TAM YAĞLI KAYMAKLI YOĞURT 500 G",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "EŞME YEM SÜT VE SÜT ÜRÜNLERİ TARIM HAYVANCILIK NAKLİYE İTHALAT İHRACAT SANAYİ VE TİCARET LTD.ŞTİ.",
+        "marka": "ÇAMOLUK",
+        "sebep": "KAŞAR PEYNİRİ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "SERVİN SENA ESLİK-CANKURT ET VE ET MAMULLERİ TİCARETİ",
+        "marka": "MANDIRA ŞEFİ",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "YAKUPAĞA ET VE ET ÜRÜNLERİ HAYVANCILIK TARIM ÜRÜNLERİ GIDA PAZARLAMA İTHALAT İHR.TİC.VE SAN.LTD.ŞTİ.",
+        "marka": "YAKUPAĞA SUCUKLARI",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "GÖKHAN KAYAR ET VE ET ÜRÜNLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "GÖKHAN KAYAR",
+        "sebep": "KASAP KANGAL DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "RATU BURGER-RAMİZ SERHAT ÖZTÜRK",
+        "marka": "-",
+        "sebep": "HAMBURGER KÖFTE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "İNCİRALTI KEBAP EVİ-MEHMET TEKDAL",
+        "marka": "-",
+        "sebep": "ADANA KEBAP (ÇİĞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "07 EMİR ET-ZEHRA SÖYÜÇEN",
+        "marka": "-",
+        "sebep": "DANA KIYMA (ÇİĞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "KARDEŞLER KEBAP SALONU YENİ-YUSUF KAYA",
+        "marka": "-",
+        "sebep": "ADANA KEBAP (ÇİĞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "CİĞERCİ CANO-İBRAHİM ÖNDER",
+        "marka": "-",
+        "sebep": "ÇİĞ ADANA KEBABI (DANA+KUZU ETİ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "M GOLD ET ÜRÜNLERİ GIDA TEKSTİL SANAYİ VE TİCARET LİMİTED ŞİRKETİ-M.CEYLANLAR KASABI",
+        "marka": "-",
+        "sebep": "ÇİĞ DANA KIYMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "DÜRÜMCÜ İZZET-MİTHAT DEMİR",
+        "marka": "-",
+        "sebep": "ADANA KEBAP",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "SEZGİNLER OCAKBAŞI-BEŞİR SEZGİN",
+        "marka": "-",
+        "sebep": "DANA VE KUZU ETLİ ADANA KEBAP (ÇİĞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "COŞKAR YAĞ GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "ZEYTİNOVAM AYVALIK SERİSİ",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "ÇOBANOĞLU GIDA-ÖZAL ÇOBAN",
+        "marka": "NUR CEYLAN ERZİNCAN",
+        "sebep": "ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "18.06.2026",
+        "urun": "CEYSAN PAKETLEME VE AMBALAJ ÜRETİM SANAYİ ANONİM ŞİRKETİ",
+        "marka": "BAL CENNETİ ERZİNCAN",
+        "sebep": "SÜZME ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
         "firma": "01.06.2026",
