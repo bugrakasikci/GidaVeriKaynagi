@@ -1,5 +1,37 @@
 [
     {
+        "firma": "25.06.2026",
+        "urun": "HEKİMZADE İLAÇ GIDA KOZMETİK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "HEKİMZADE",
+        "sebep": "HEKİMZADE AFROMEN ÇAKŞIROTU İÇEREN TAKVİYE EDİCİ GIDA",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "25.06.2026",
+        "urun": "HEKİMZADE İLAÇ GIDA KOZMETİK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "HEKİMZADE",
+        "sebep": "HEKİMZADE AFROMEN ÇAKŞIROTU İÇEREN TAKVİYE EDİCİ GIDA 750MG*30KAPSÜL",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "25.06.2026",
+        "urun": "HEKİMZADE İLAÇ GIDA KOZMETİK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "HEKİMZADE",
+        "sebep": "AFROMEN BİTKİSEL-750MG-30KAPSÜL",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "25.06.2026",
+        "urun": "HEKİMZADE İLAÇ GIDA KOZMETİK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "HEKİMZADE",
+        "sebep": "HEKİMZADE AFROMEN BİTKİSEL 750MG 30KAPSÜL",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
         "firma": "18.06.2026",
         "urun": "CENEVİZ GIDA VE KİMYA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
         "marka": "CENEVİZ",
@@ -464,44 +496,44 @@
         "alt_liste": ""
     },
     {
-        "firma": "25.12.2025",
-        "urun": "MUSTAFA SAYAR",
+        "firma": "25.06.2026",
+        "urun": "BİLALOĞLU SÜT VE ÜRÜNLERİ GIDA HAYVANCILIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "KÖY PARK",
+        "sebep": "TAM YAĞLI KREMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "25.06.2026",
+        "urun": "POLAT UYSAL",
         "marka": "-",
-        "sebep": "SUMAK",
-        "kategori": "Sağlık Tehlikesi",
-        "alt_liste": ""
+        "sebep": "ÜRETİM ALANINDAN ALINAN %100 PİLİÇ ETİ OLDUĞU BEYAN EDİLEN KÖFTE ÜRÜNÜ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
     },
     {
-        "firma": "25.12.2025",
-        "urun": "CUMA KAYA",
+        "firma": "25.06.2026",
+        "urun": "MKABASAKAL İNŞAAT LOJİSTİK GIDA SAN. TİC. LTD. ŞT.İ",
+        "marka": "MKABASAKAL HARİKA SUCUKLARI",
+        "sebep": "DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "25.06.2026",
+        "urun": "ÖZSULTAN ET ÜRÜNLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ-ÖZSULTAN ET DÜNYASI",
         "marka": "-",
-        "sebep": "SUMAK",
-        "kategori": "Sağlık Tehlikesi",
-        "alt_liste": ""
+        "sebep": "DANA KIYMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
     },
     {
-        "firma": "25.12.2025",
-        "urun": "SUDEM LOKMAN HEKİM ŞİFALI BİTKİLER BAHARAT GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "SUDEM LOKMAN HEKİM",
-        "sebep": "SUMAK YAPRAK",
-        "kategori": "Sağlık Tehlikesi",
-        "alt_liste": ""
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "YEŞİL DAMAKÇI GIDA KOZMETİK TEMİZLİK ÜRÜNLERİ TARIM ÜRÜNLERİ HAY.NAKLİYE İNŞ.SAN.VE TİC.LTD.ŞTİ.",
-        "marka": "HALİS ÇAVUŞOĞLU",
-        "sebep": "İSOT",
-        "kategori": "Sağlık Tehlikesi",
-        "alt_liste": ""
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "BABA ALMAN BAHARATLARI -MEHMET BABA",
-        "marka": "BABA ALMAN BAHARATLARI",
-        "sebep": "KIRMIZI TOZ BİBER",
-        "kategori": "Sağlık Tehlikesi",
-        "alt_liste": ""
+        "firma": "25.06.2026",
+        "urun": "BİCEN MAĞAZACILIK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "-",
+        "sebep": "DANA-KUZU KÖFTE HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
     },
     {
         "firma": "18.06.2026",
@@ -2744,236 +2776,44 @@
         "alt_liste": "Liste 1 (Taklit)"
     },
     {
-        "firma": "25.12.2025",
-        "urun": "HANAY TİCARET-ÜRYANİ CEYLAN",
+        "firma": "25.06.2026",
+        "urun": "BİLALOĞLU SÜT VE ÜRÜNLERİ GIDA HAYVANCILIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "KÖY PARK",
+        "sebep": "TAM YAĞLI KREMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "25.06.2026",
+        "urun": "POLAT UYSAL",
         "marka": "-",
-        "sebep": "PEKMEZ",
+        "sebep": "ÜRETİM ALANINDAN ALINAN %100 PİLİÇ ETİ OLDUĞU BEYAN EDİLEN KÖFTE ÜRÜNÜ",
         "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
-        "firma": "25.12.2025",
-        "urun": "GENÇADA GIDA LİMİTED ŞİRKETİ",
-        "marka": "GENÇADA",
-        "sebep": "MANDA KAYMAK 280 G",
+        "firma": "25.06.2026",
+        "urun": "MKABASAKAL İNŞAAT LOJİSTİK GIDA SAN. TİC. LTD. ŞT.İ",
+        "marka": "MKABASAKAL HARİKA SUCUKLARI",
+        "sebep": "DANA SUCUK",
         "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
-        "firma": "25.12.2025",
-        "urun": "KARADENİZ GURME ET VE SÜT ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ-KARADENİZ MANDIRA",
-        "marka": "KARADENİZ MANDIRA",
-        "sebep": "TEREYAĞI 1000 G",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "LOKMAN MERMERTAŞ",
-        "marka": "NEHİR YOĞURT",
-        "sebep": "NEHİR YOĞURT",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "TOSUN KÖFTE ET ÜRÜNLERİ BESİCİLİK GIDA İNŞAAT EMLAK İTHALAT İHRACAT SANAYİ VE TİCARET LTD.ŞTİ.",
+        "firma": "25.06.2026",
+        "urun": "ÖZSULTAN ET ÜRÜNLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ-ÖZSULTAN ET DÜNYASI",
         "marka": "-",
-        "sebep": "ÜRETİM ALANINDAN ALINAN %100 PİLİÇ ETİ OLDUĞU BEYAN EDİLEN KÖFTE",
+        "sebep": "DANA KIYMA",
         "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
-        "firma": "25.12.2025",
-        "urun": "ZİRVE SUCUK VE PASTIRMA-RAMAZAN HELVACI",
-        "marka": "İNCİ ÇİFTLİĞİ",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ PARMAK SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "ELİF YEMEK HİZMETLERİ-GÜLİZAR KOŞMAZ",
+        "firma": "25.06.2026",
+        "urun": "BİCEN MAĞAZACILIK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "marka": "-",
-        "sebep": "DANA KÖFTE (PİŞMİŞ)",
+        "sebep": "DANA-KUZU KÖFTE HARCI",
         "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "GAZİANTEP BİLOCAN KEBAP PİDE DÖNER LAHMACUN-ÜLKÜ BARAZİ",
-        "marka": "-",
-        "sebep": "ÇİĞ KIYMALI LAHMACUN İÇ HARCI (DÖKME)",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "HACIOĞLU KASAP-ŞERİF DUMAN",
-        "marka": "-",
-        "sebep": "KASAP KÖFTE (DÖKME)",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "GÜLER ETLİEKMEK VE DÖNER SALONU-MEHMET GÜLER",
-        "marka": "-",
-        "sebep": "LAHMACUN İÇ HARCI( DANA ETİ)",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "GÜLER ETLİEKMEK VE DÖNER SALONU-MEHMET GÜLER",
-        "marka": "-",
-        "sebep": "ETLİEKMEK İÇ HARCI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "ÖZDEN DEĞİRMENCİ",
-        "marka": "-",
-        "sebep": "SUMAK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "ERKAN EGEMEN BAHARATLARI-ERKAN ÇOBAN",
-        "marka": "ERKAN EGEMEN",
-        "sebep": "PUL BİBER",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "DEFNE BAHARAT-EYÜP ILGAZ",
-        "marka": "BY AKTAR",
-        "sebep": "KEKİK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "BALDAĞ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "LOKMAN 1984",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "BALDAĞ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "-",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "BALDAĞ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "YAYLIM",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "HASTÜRK GIDA OTOMOTİV İNŞAAT EMLAK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
-        "marka": "OTANTİK",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "HASTÜRK GIDA OTOMOTİV İNŞAAT EMLAK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
-        "marka": "ASLANPETEK",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "PETEK GLOBAL ARICILIK GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "ASLANPETEK",
-        "sebep": "SÜZME YONCA ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "AKAR BAL-GÖKDAĞ KARAYAKA",
-        "marka": "AKAR NATURAL BAL",
-        "sebep": "TEMEL PETEKLİ SÜZME BAL-700 G",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "AKAR BAL-GÖKDAĞ KARAYAKA",
-        "marka": "AKAR NATURAL BAL",
-        "sebep": "TEMEL PETEKLİ SÜZME BAL-220 G",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "AKAR BAL-GÖKDAĞ KARAYAKA",
-        "marka": "AKAR NATURAL BAL",
-        "sebep": "TEMEL PETEKLİ SÜZME BAL-385 G",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "5.12.2025 tarihinde tağşiş yaptığı gerekçesiyle kamuoyuna açıklanan ‘Merter Süzme Çiçek Balı’ markalı ürüne ilişkin olarak, Ankara 14. İdare Mahkemesi tarafından yürütmesinin durdurulmasına karar verilmiştir.",
-        "marka": "-",
-        "sebep": "-",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "ECRİN GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "ECRİN",
-        "sebep": "SÜZME ÇİÇEK BAL",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "HONEYCİ İNŞAAT TURİZM VE GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "ETA BAL",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "PETEKÇİ GIDA PAZARLAMA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "BALCI PETEK",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "AĞAÇCI TİCARET-HÜSEYİN AĞAÇCI",
-        "marka": "YÖREMİN",
-        "sebep": "SÜZME SALGI BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "HANAY TİCARET-ÜRYANİ CEYLAN",
-        "marka": "-",
-        "sebep": "BAL",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
         "firma": "18.06.2026",
@@ -5212,238 +5052,6 @@
         "urun": "BY SAY ARICILIK-TOLGA SAY-TOLGA SAY",
         "marka": "ŞİFA BEY NATURAL",
         "sebep": "SÜZME ÇİÇEK BALI (4KG)",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "HANAY TİCARET-ÜRYANİ CEYLAN",
-        "marka": "-",
-        "sebep": "PEKMEZ",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "GENÇADA GIDA LİMİTED ŞİRKETİ",
-        "marka": "GENÇADA",
-        "sebep": "MANDA KAYMAK 280 G",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "KARADENİZ GURME ET VE SÜT ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ-KARADENİZ MANDIRA",
-        "marka": "KARADENİZ MANDIRA",
-        "sebep": "TEREYAĞI 1000 G",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "LOKMAN MERMERTAŞ",
-        "marka": "NEHİR YOĞURT",
-        "sebep": "NEHİR YOĞURT",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "TOSUN KÖFTE ET ÜRÜNLERİ BESİCİLİK GIDA İNŞAAT EMLAK İTHALAT İHRACAT SANAYİ VE TİCARET LTD.ŞTİ.",
-        "marka": "-",
-        "sebep": "ÜRETİM ALANINDAN ALINAN %100 PİLİÇ ETİ OLDUĞU BEYAN EDİLEN KÖFTE",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "ZİRVE SUCUK VE PASTIRMA-RAMAZAN HELVACI",
-        "marka": "İNCİ ÇİFTLİĞİ",
-        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ PARMAK SUCUK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "ELİF YEMEK HİZMETLERİ-GÜLİZAR KOŞMAZ",
-        "marka": "-",
-        "sebep": "DANA KÖFTE (PİŞMİŞ)",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "GAZİANTEP BİLOCAN KEBAP PİDE DÖNER LAHMACUN-ÜLKÜ BARAZİ",
-        "marka": "-",
-        "sebep": "ÇİĞ KIYMALI LAHMACUN İÇ HARCI (DÖKME)",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "HACIOĞLU KASAP-ŞERİF DUMAN",
-        "marka": "-",
-        "sebep": "KASAP KÖFTE (DÖKME)",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "GÜLER ETLİEKMEK VE DÖNER SALONU-MEHMET GÜLER",
-        "marka": "-",
-        "sebep": "LAHMACUN İÇ HARCI( DANA ETİ)",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "GÜLER ETLİEKMEK VE DÖNER SALONU-MEHMET GÜLER",
-        "marka": "-",
-        "sebep": "ETLİEKMEK İÇ HARCI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "ÖZDEN DEĞİRMENCİ",
-        "marka": "-",
-        "sebep": "SUMAK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "ERKAN EGEMEN BAHARATLARI-ERKAN ÇOBAN",
-        "marka": "ERKAN EGEMEN",
-        "sebep": "PUL BİBER",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "DEFNE BAHARAT-EYÜP ILGAZ",
-        "marka": "BY AKTAR",
-        "sebep": "KEKİK",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "BALDAĞ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "LOKMAN 1984",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "BALDAĞ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "-",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "BALDAĞ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "YAYLIM",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "HASTÜRK GIDA OTOMOTİV İNŞAAT EMLAK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
-        "marka": "OTANTİK",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "HASTÜRK GIDA OTOMOTİV İNŞAAT EMLAK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
-        "marka": "ASLANPETEK",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "PETEK GLOBAL ARICILIK GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "ASLANPETEK",
-        "sebep": "SÜZME YONCA ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "AKAR BAL-GÖKDAĞ KARAYAKA",
-        "marka": "AKAR NATURAL BAL",
-        "sebep": "TEMEL PETEKLİ SÜZME BAL-700 G",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "AKAR BAL-GÖKDAĞ KARAYAKA",
-        "marka": "AKAR NATURAL BAL",
-        "sebep": "TEMEL PETEKLİ SÜZME BAL-220 G",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "AKAR BAL-GÖKDAĞ KARAYAKA",
-        "marka": "AKAR NATURAL BAL",
-        "sebep": "TEMEL PETEKLİ SÜZME BAL-385 G",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "5.12.2025 tarihinde tağşiş yaptığı gerekçesiyle kamuoyuna açıklanan ‘Merter Süzme Çiçek Balı’ markalı ürüne ilişkin olarak, Ankara 14. İdare Mahkemesi tarafından yürütmesinin durdurulmasına karar verilmiştir.",
-        "marka": "-",
-        "sebep": "-",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "ECRİN GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "ECRİN",
-        "sebep": "SÜZME ÇİÇEK BAL",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "HONEYCİ İNŞAAT TURİZM VE GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "ETA BAL",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "PETEKÇİ GIDA PAZARLAMA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "BALCI PETEK",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "AĞAÇCI TİCARET-HÜSEYİN AĞAÇCI",
-        "marka": "YÖREMİN",
-        "sebep": "SÜZME SALGI BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "25.12.2025",
-        "urun": "HANAY TİCARET-ÜRYANİ CEYLAN",
-        "marka": "-",
-        "sebep": "BAL",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 2 (Tağşiş)"
     }
