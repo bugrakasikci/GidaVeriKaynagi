@@ -1,5 +1,21 @@
 [
     {
+        "firma": "02.07.2026",
+        "urun": "SAKAOĞLU GRUP PAZARLAMA-FAHRETTİN SAKA",
+        "marka": "KRAVATLI ÇAY",
+        "sebep": "SİYAH ÇAY",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "BAŞ KÖYLÜ BAHARAT-TAHSİN BOZKURT",
+        "marka": "BAŞKÖYLÜ BAHARAT",
+        "sebep": "BAŞKÖYLÜ BAHARAT KIRMIZI TOZ BİBER",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
         "firma": "25.06.2026",
         "urun": "HEKİMZADE İLAÇ GIDA KOZMETİK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
         "marka": "HEKİMZADE",
@@ -494,6 +510,222 @@
         "sebep": "SOĞUK SIKIM NATUREL SIZMA ZEYTİNYAĞI",
         "kategori": "Sağlık Tehlikesi",
         "alt_liste": ""
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "İFLAS HAL.CEVİZDEN GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ-EKLERİSTAN",
+        "marka": "-",
+        "sebep": "ANTEP FISTIKLI EKLER",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "HALİL ÇEVİK",
+        "marka": "-",
+        "sebep": "ÜZÜM PEKMEZİ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "MUSTAFA FIRIN KALE ET VE ET ÜRÜNLERİ-MUSTAFA FIRIN",
+        "marka": "KALE ET MUSTAFA FIRIN",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ŞİMAL ET ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "YUSUF BEYOĞLU AFYONKARAHİSAR",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ŞİMAL ET ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "AFYONKARAHİSAR CEYTÜRK SUCUKLARI",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ŞİMAL ET ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "AFYONKARAHİSAR AKİT",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ŞİMAL ET ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "AFYONKARAHİSAR DOĞAŞ",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ŞİMAL ET ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "YUSUF BEYOĞLU",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ŞİMAL ET ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "AFYONKARAHİSAR EFEM SUCUKLARI",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "KULE SUCUKLARI VE ET ÜRÜNLERİ HAYVANCILIK DAĞITIM VE PAZARLAMA İTHALAT İHRACAT SAN.VE TİC.LTD.ŞTİ.",
+        "marka": "KULE AFYONKARAHİSAR",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "KULE SUCUKLARI VE ET ÜRÜNLERİ HAYVANCILIK DAĞITIM VE PAZARLAMA İTHALAT İHRACAT SAN.VE TİC.LTD.ŞTİ.",
+        "marka": "KULE AFYONKARAHİSAR",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "KULE SUCUKLARI VE ET ÜRÜNLERİ HAYVANCILIK DAĞITIM VE PAZARLAMA İTHALAT İHRACAT SAN.VE TİC.LTD.ŞTİ.",
+        "marka": "AFYONKARAHİSAR KULE",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "BAYRAKOĞLU ET ÜRÜNLERİ-ALİ BAYRAK -ALİ BAYRAK",
+        "marka": "ÖZLÜM",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "TABRIZ ISRAFILOV",
+        "marka": "VARNALI KAVURMA",
+        "sebep": "KAVURMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "EGE CANET PAZARLAMA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "TİRE-EGE GÖÇMENOĞLU",
+        "sebep": "IŞIL İŞLEM GÖRMÜŞ SUCUK (DİLİMLİ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ETBİRSAN GIDA HAYVANCILIK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "HALİL AĞA",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ALADAĞ ETLİEKMEK-MUSTAFA ALADAĞ",
+        "marka": "-",
+        "sebep": "LAHMACUN İÇ HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "NECMETTİN ERBAKAN ÜNİV. E BLOK LOKANTA KAFETERYA-ŞEFİK KILIÇASLAN",
+        "marka": "-",
+        "sebep": "ADANA KEBAP",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ÖZKAN DEMİRBACAK ET LİMİTED ŞİRKETİ-ÖZ İKRAM KASABI (KADINLAR PAZARI)",
+        "marka": "-",
+        "sebep": "KIYMA (KIRMIZI ET)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "GÜRKAN PİDE SALONU-GÜRKAN FİLİZ",
+        "marka": "-",
+        "sebep": "PİDE İÇ HARCI (DANA KIYMA,DOMATES, BİBER, MAYDONOZ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "EMRE ÇULHA",
+        "marka": "MUDANYA KÖY-KOOP",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "EMRE ÇULHA",
+        "marka": "MUDANYA KÖY-KOOP",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "MUSTAFA GENÇ",
+        "marka": "-",
+        "sebep": "ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "HALİL ÇEVİK",
+        "marka": "-",
+        "sebep": "NATUREL BİRİNCİ ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "DGL GIDA-ENES ÇELİK",
+        "marka": "DGL GIDA",
+        "sebep": "ZEYTİVA DOĞAL ZEYTİNYAĞI NATUREL",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "AKBAR ÇAY GIDA TEKSTİL NAKLİYAT PETROL SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "VİCTORİA",
+        "sebep": "SİYAH ÇAY",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "HALİL ÇEVİK",
+        "marka": "-",
+        "sebep": "ÇAM BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
     },
     {
         "firma": "25.06.2026",
@@ -2774,6 +3006,222 @@
         "sebep": "SÜZME ÇİÇEK BALI (4KG)",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "İFLAS HAL.CEVİZDEN GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ-EKLERİSTAN",
+        "marka": "-",
+        "sebep": "ANTEP FISTIKLI EKLER",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "HALİL ÇEVİK",
+        "marka": "-",
+        "sebep": "ÜZÜM PEKMEZİ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "MUSTAFA FIRIN KALE ET VE ET ÜRÜNLERİ-MUSTAFA FIRIN",
+        "marka": "KALE ET MUSTAFA FIRIN",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ŞİMAL ET ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "YUSUF BEYOĞLU AFYONKARAHİSAR",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ŞİMAL ET ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "AFYONKARAHİSAR CEYTÜRK SUCUKLARI",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ŞİMAL ET ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "AFYONKARAHİSAR AKİT",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ŞİMAL ET ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "AFYONKARAHİSAR DOĞAŞ",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ŞİMAL ET ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "YUSUF BEYOĞLU",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ŞİMAL ET ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "AFYONKARAHİSAR EFEM SUCUKLARI",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "KULE SUCUKLARI VE ET ÜRÜNLERİ HAYVANCILIK DAĞITIM VE PAZARLAMA İTHALAT İHRACAT SAN.VE TİC.LTD.ŞTİ.",
+        "marka": "KULE AFYONKARAHİSAR",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "KULE SUCUKLARI VE ET ÜRÜNLERİ HAYVANCILIK DAĞITIM VE PAZARLAMA İTHALAT İHRACAT SAN.VE TİC.LTD.ŞTİ.",
+        "marka": "KULE AFYONKARAHİSAR",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "KULE SUCUKLARI VE ET ÜRÜNLERİ HAYVANCILIK DAĞITIM VE PAZARLAMA İTHALAT İHRACAT SAN.VE TİC.LTD.ŞTİ.",
+        "marka": "AFYONKARAHİSAR KULE",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "BAYRAKOĞLU ET ÜRÜNLERİ-ALİ BAYRAK -ALİ BAYRAK",
+        "marka": "ÖZLÜM",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "TABRIZ ISRAFILOV",
+        "marka": "VARNALI KAVURMA",
+        "sebep": "KAVURMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "EGE CANET PAZARLAMA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "TİRE-EGE GÖÇMENOĞLU",
+        "sebep": "IŞIL İŞLEM GÖRMÜŞ SUCUK (DİLİMLİ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ETBİRSAN GIDA HAYVANCILIK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "HALİL AĞA",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ALADAĞ ETLİEKMEK-MUSTAFA ALADAĞ",
+        "marka": "-",
+        "sebep": "LAHMACUN İÇ HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "NECMETTİN ERBAKAN ÜNİV. E BLOK LOKANTA KAFETERYA-ŞEFİK KILIÇASLAN",
+        "marka": "-",
+        "sebep": "ADANA KEBAP",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "ÖZKAN DEMİRBACAK ET LİMİTED ŞİRKETİ-ÖZ İKRAM KASABI (KADINLAR PAZARI)",
+        "marka": "-",
+        "sebep": "KIYMA (KIRMIZI ET)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "GÜRKAN PİDE SALONU-GÜRKAN FİLİZ",
+        "marka": "-",
+        "sebep": "PİDE İÇ HARCI (DANA KIYMA,DOMATES, BİBER, MAYDONOZ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "EMRE ÇULHA",
+        "marka": "MUDANYA KÖY-KOOP",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "EMRE ÇULHA",
+        "marka": "MUDANYA KÖY-KOOP",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "MUSTAFA GENÇ",
+        "marka": "-",
+        "sebep": "ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "HALİL ÇEVİK",
+        "marka": "-",
+        "sebep": "NATUREL BİRİNCİ ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "DGL GIDA-ENES ÇELİK",
+        "marka": "DGL GIDA",
+        "sebep": "ZEYTİVA DOĞAL ZEYTİNYAĞI NATUREL",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "AKBAR ÇAY GIDA TEKSTİL NAKLİYAT PETROL SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "VİCTORİA",
+        "sebep": "SİYAH ÇAY",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "02.07.2026",
+        "urun": "HALİL ÇEVİK",
+        "marka": "-",
+        "sebep": "ÇAM BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
         "firma": "25.06.2026",
