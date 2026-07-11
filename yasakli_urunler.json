@@ -1,5 +1,53 @@
 [
     {
+        "firma": "10.07.2026",
+        "urun": "ERGÜN ET VE ET ÜRÜNLERİ- ERGÜN SUCUK İMALATHANESİ-METİN ERGÜN",
+        "marka": "ERGÜN SUCUKLARI",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ DANA SUCUK",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "ÜZER GIDA TARIM İNŞAAT LOJİSTİK ÖZEL SAĞLIK HİZMETLERİ İTHALAT İHRACAT SANAYİ VE TİCARET LTD.ŞTİ.",
+        "marka": "YÖRE",
+        "sebep": "DANA SUCUK (900 GR)",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "ZEYNEP ET TAVUK DÜNYASI-MERYEM SUBAŞI",
+        "marka": "-",
+        "sebep": "ÇİĞ DANA KIYMA",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "LİNA ET GURME-LINA AL ALİ",
+        "marka": "-",
+        "sebep": "ÇİĞ DANA KIYMA",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "İSAR GIDA SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "NURÇAY FİLİZ",
+        "sebep": "SİYAH ÇAY",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "İSAR GIDA SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "NURÇAY ALTIN BAŞAK",
+        "sebep": "SİYAH ÇAY",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
         "firma": "02.07.2026",
         "urun": "SAKAOĞLU GRUP PAZARLAMA-FAHRETTİN SAKA",
         "marka": "KRAVATLI ÇAY",
@@ -510,6 +558,78 @@
         "sebep": "SOĞUK SIKIM NATUREL SIZMA ZEYTİNYAĞI",
         "kategori": "Sağlık Tehlikesi",
         "alt_liste": ""
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "ÖZLÜCE ET ÜRÜNLERİ-HASAN BUZLUK",
+        "marka": "KASAP",
+        "sebep": "DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "TEPE ET ÜRÜNLERİ PAZARLAMA GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "KAYRA",
+        "sebep": "DANA SUCUK 400 G",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "KAYSERİ MERCAN GIDA ÜRETİM PAZARLAMA SANAYİ DIŞ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "MERCAN ÇİFTLİĞİ",
+        "sebep": "BÜFE PİLİÇ SALAM 400 G",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "DAMAK TADI LOKANTA-ÖZNUR YOKUŞ",
+        "marka": "-",
+        "sebep": "KURU KÖFTE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "YÖREMİZ 3 LAHMACUN PİDE SALONU-ŞEYHMUS PARLAK",
+        "marka": "-",
+        "sebep": "LAHMACUN İÇ HARCI (DANA ETLİ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "DENLİ ET VE ET ÜRÜNLERİ HAYVANCILIK TOPTAN VE PERAKENDE GIDA LİMİTED ŞİRKETİ-KASAP SALİM",
+        "marka": "-",
+        "sebep": "KASAP KÖFTE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "COŞKAR YAĞ GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "AYVALIK GURME",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "KASIRGA GIDA PAZARLAMA İNŞAAT NAKLİYAT VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "DEDEDEN TORUNA SİNCE 1994",
+        "sebep": "NEW AYVALIK NATUREL SIZMA ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "MUSTAFA ÖZTÜRK",
+        "marka": "MEVSİMSEL BAHARAT",
+        "sebep": "KEKİK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
     },
     {
         "firma": "02.07.2026",
@@ -2830,6 +2950,78 @@
         "sebep": "-",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "ÖZLÜCE ET ÜRÜNLERİ-HASAN BUZLUK",
+        "marka": "KASAP",
+        "sebep": "DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "TEPE ET ÜRÜNLERİ PAZARLAMA GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "KAYRA",
+        "sebep": "DANA SUCUK 400 G",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "KAYSERİ MERCAN GIDA ÜRETİM PAZARLAMA SANAYİ DIŞ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "MERCAN ÇİFTLİĞİ",
+        "sebep": "BÜFE PİLİÇ SALAM 400 G",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "DAMAK TADI LOKANTA-ÖZNUR YOKUŞ",
+        "marka": "-",
+        "sebep": "KURU KÖFTE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "YÖREMİZ 3 LAHMACUN PİDE SALONU-ŞEYHMUS PARLAK",
+        "marka": "-",
+        "sebep": "LAHMACUN İÇ HARCI (DANA ETLİ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "DENLİ ET VE ET ÜRÜNLERİ HAYVANCILIK TOPTAN VE PERAKENDE GIDA LİMİTED ŞİRKETİ-KASAP SALİM",
+        "marka": "-",
+        "sebep": "KASAP KÖFTE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "COŞKAR YAĞ GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "AYVALIK GURME",
+        "sebep": "NATUREL SIZMA ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "KASIRGA GIDA PAZARLAMA İNŞAAT NAKLİYAT VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "DEDEDEN TORUNA SİNCE 1994",
+        "sebep": "NEW AYVALIK NATUREL SIZMA ZEYTİNYAĞI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "10.07.2026",
+        "urun": "MUSTAFA ÖZTÜRK",
+        "marka": "MEVSİMSEL BAHARAT",
+        "sebep": "KEKİK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
         "firma": "02.07.2026",
