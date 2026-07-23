@@ -1,5 +1,13 @@
 [
     {
+        "firma": "22.07.2026",
+        "urun": "ŞİFADAN EMİN BAHARAT-ENGİN GÖKTEKİN",
+        "marka": "MPLUS",
+        "sebep": "EPİMEDİUMLU BİTKİSEL MACUN-240 GR",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
         "firma": "10.07.2026",
         "urun": "ERGÜN ET VE ET ÜRÜNLERİ- ERGÜN SUCUK İMALATHANESİ-METİN ERGÜN",
         "marka": "ERGÜN SUCUKLARI",
@@ -558,6 +566,222 @@
         "sebep": "SOĞUK SIKIM NATUREL SIZMA ZEYTİNYAĞI",
         "kategori": "Sağlık Tehlikesi",
         "alt_liste": ""
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "TEMBA DAYANIKLI TÜKETİM KIRTASİYE İNŞAAT ELEKTRİK ELEKTRONİK GIDA TARIM ÜRN.HAY.SAN.VE TİC.LTD.ŞTİ.-ŞİRİN TATVAN SÜT VE SÜT ÜRÜNLERİ",
+        "marka": "ŞİRİN",
+        "sebep": "TAM YAĞLI YOĞURT",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "ANAMAS GIDA-ABDULLAH YILMAZ",
+        "marka": "ANAMAS PİKNİK",
+        "sebep": "TEREYAĞI-10 G",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "MUTUM SÜT ÜRÜNLERİ TARIM HAYVANCILIK İNŞAAT GIDA NAKLİYE TURİZM SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "DOY HOREKA",
+        "sebep": "TAM YAĞLI TAZE KAŞAR PEYNİRİ (1000 GR)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "HERKÜL ÇİFTLİĞİ SÜT VE SÜT ÜRÜNLERİ LİMİTED ŞİRKETİ",
+        "marka": "YAYLACIK ÇİFTLİĞİ",
+        "sebep": "KOYUN YOĞURDU",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "TEK AR GIDA SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "TEKAR SÜT ÜRÜNLERİ",
+        "sebep": "YARIM YAĞLI TAZE KAŞAR PEYNİRİ-2000 GR",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "ÖZEMEK TEREYAĞI SÜT ÜRÜNLERİ LİMİTED ŞİRKETİ",
+        "marka": "EBRAR ALYA",
+        "sebep": "AYÇEKİRDEĞİ MISIR ÇÖREKOTU ÇEŞNİLİ TAM YAĞLI TAZE ERİTME PEYNİRİ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "ÖZERLER SÜT ÜRÜNLERİ VE MARKETÇİLİK ANONİM ŞİRKETİ",
+        "marka": "FORMİA (PİZZALIK PEYNİR)",
+        "sebep": "TAM YAĞLI TAZE ERİTME PEYNİRİ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "TEVFİK ÖRSELOĞLU-TRABZON G.U.K. SÜT ÜRÜNLERİ İMALATI",
+        "marka": "TURNALAR ÇİFTLİĞİ SÜT ÜRÜNLERİ",
+        "sebep": "TEREYAĞI %80 SÜT YAĞLI (1000 G)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "MEHMET TOPRAK",
+        "marka": "OSMANOĞLU",
+        "sebep": "SADEYAĞ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "ER ET ERCİYES ET VE ET ÜRÜNLERİ GIDA TİCARET VE SANAYİ LİMİTED ŞİRKETİ",
+        "marka": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "sebep": "YILDIZ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "SERBESTLER MADENCİLİK GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "ÇİRİŞLİ",
+        "sebep": "DANA KAVURMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "KUMRAS TEKSTİL İÇ VE DIŞ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "LAHMACUN İÇ HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "ÇAM ETLİ PİDE SALONU-İMDAT BOZKIR",
+        "marka": "-",
+        "sebep": "KIYMALI PİDE HARCI (DANA ETİ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "CESİM ÖZALP ÖZEL SAĞLIK EĞİTİM DEKORASYON İNŞAAT TURİZM GIDA İLETİŞİM SANAYİ VE TİCARET LTD.ŞTİ.-SEFA ET",
+        "marka": "-",
+        "sebep": "DANA KIYMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "PİDE'NEM HAKAN USTA-KADER AYDIN",
+        "marka": "-",
+        "sebep": "LAHMACUN HARCI (DANA KIYMA)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "CİĞERCİ DİYADİN USTA-MEKKİYE ASANA",
+        "marka": "-",
+        "sebep": "ÇİĞ ADANA KEBABI (DANA+KUZU ETİ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "HÜSNÜ AMCA LAHMACUN-MUSTAFA DİKEN",
+        "marka": "-",
+        "sebep": "ÇİĞ KUŞBAŞI PİDE HARCI (DANA+KUZU)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "M GOLD ET ÜRÜNLERİ GIDA TEKSTİL SANAYİ VE TİCARET LİMİTED ŞİRKETİ-M.CEYLANLAR KASABI",
+        "marka": "-",
+        "sebep": "ÇİĞ DANA KIYMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "ÖZ URFA-MEHMET ALTUNOVA",
+        "marka": "-",
+        "sebep": "ÇİĞ LAHMACUN HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "SİNAN CHEF DÖNERİUM RESTORAN ANONİM ŞİRKETİ",
+        "marka": "-",
+        "sebep": "DANA ETİNDEN HAZIRLANMIŞ ÇİĞ ET KÖFTE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "VKB TARIM ÜRÜNLERİ-SEZGİN ÇETİN",
+        "marka": "-",
+        "sebep": "AYVALIK VAKIF BİRLİK NATUREL SIZMA ZEYTİNYAĞI 5L",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "EAT TARIM ÜRÜNLERİ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "AYVALIK BİRLİK TAŞ BASKI ZEYTİNYAĞI 5L",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "EAT TARIM ÜRÜNLERİ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "AYVALIK DOĞAL NATUREL SIZMA ZEYTİNYAĞI 5L",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "EAT TARIM ÜRÜNLERİ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "EGE HİSAR NATUREL SIZMA ZYTİNYAĞI 16L",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "ASİL GIDA İMALAT TİCARET TEDARİK TAAHHÜT-AHMET TALŞIK",
+        "marka": "BİNBİR PETEK",
+        "sebep": "PETEKLİ ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "AKAR BAL-GÖKDAĞ KARAYAKA",
+        "marka": "PELİT",
+        "sebep": "SÜZME ÇİÇEK BALI-20 G",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "ENFA GIDA-MUSTAFA ENÇETİN",
+        "marka": "ERTUĞRUL",
+        "sebep": "SÜZME ÇİÇEK BALI (1 KG)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
     },
     {
         "firma": "10.07.2026",
@@ -2950,6 +3174,222 @@
         "sebep": "-",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "TEMBA DAYANIKLI TÜKETİM KIRTASİYE İNŞAAT ELEKTRİK ELEKTRONİK GIDA TARIM ÜRN.HAY.SAN.VE TİC.LTD.ŞTİ.-ŞİRİN TATVAN SÜT VE SÜT ÜRÜNLERİ",
+        "marka": "ŞİRİN",
+        "sebep": "TAM YAĞLI YOĞURT",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "ANAMAS GIDA-ABDULLAH YILMAZ",
+        "marka": "ANAMAS PİKNİK",
+        "sebep": "TEREYAĞI-10 G",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "MUTUM SÜT ÜRÜNLERİ TARIM HAYVANCILIK İNŞAAT GIDA NAKLİYE TURİZM SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "DOY HOREKA",
+        "sebep": "TAM YAĞLI TAZE KAŞAR PEYNİRİ (1000 GR)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "HERKÜL ÇİFTLİĞİ SÜT VE SÜT ÜRÜNLERİ LİMİTED ŞİRKETİ",
+        "marka": "YAYLACIK ÇİFTLİĞİ",
+        "sebep": "KOYUN YOĞURDU",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "TEK AR GIDA SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "TEKAR SÜT ÜRÜNLERİ",
+        "sebep": "YARIM YAĞLI TAZE KAŞAR PEYNİRİ-2000 GR",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "ÖZEMEK TEREYAĞI SÜT ÜRÜNLERİ LİMİTED ŞİRKETİ",
+        "marka": "EBRAR ALYA",
+        "sebep": "AYÇEKİRDEĞİ MISIR ÇÖREKOTU ÇEŞNİLİ TAM YAĞLI TAZE ERİTME PEYNİRİ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "ÖZERLER SÜT ÜRÜNLERİ VE MARKETÇİLİK ANONİM ŞİRKETİ",
+        "marka": "FORMİA (PİZZALIK PEYNİR)",
+        "sebep": "TAM YAĞLI TAZE ERİTME PEYNİRİ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "TEVFİK ÖRSELOĞLU-TRABZON G.U.K. SÜT ÜRÜNLERİ İMALATI",
+        "marka": "TURNALAR ÇİFTLİĞİ SÜT ÜRÜNLERİ",
+        "sebep": "TEREYAĞI %80 SÜT YAĞLI (1000 G)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "MEHMET TOPRAK",
+        "marka": "OSMANOĞLU",
+        "sebep": "SADEYAĞ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "ER ET ERCİYES ET VE ET ÜRÜNLERİ GIDA TİCARET VE SANAYİ LİMİTED ŞİRKETİ",
+        "marka": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "sebep": "YILDIZ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "SERBESTLER MADENCİLİK GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "ÇİRİŞLİ",
+        "sebep": "DANA KAVURMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "KUMRAS TEKSTİL İÇ VE DIŞ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "LAHMACUN İÇ HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "ÇAM ETLİ PİDE SALONU-İMDAT BOZKIR",
+        "marka": "-",
+        "sebep": "KIYMALI PİDE HARCI (DANA ETİ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "CESİM ÖZALP ÖZEL SAĞLIK EĞİTİM DEKORASYON İNŞAAT TURİZM GIDA İLETİŞİM SANAYİ VE TİCARET LTD.ŞTİ.-SEFA ET",
+        "marka": "-",
+        "sebep": "DANA KIYMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "PİDE'NEM HAKAN USTA-KADER AYDIN",
+        "marka": "-",
+        "sebep": "LAHMACUN HARCI (DANA KIYMA)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "CİĞERCİ DİYADİN USTA-MEKKİYE ASANA",
+        "marka": "-",
+        "sebep": "ÇİĞ ADANA KEBABI (DANA+KUZU ETİ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "HÜSNÜ AMCA LAHMACUN-MUSTAFA DİKEN",
+        "marka": "-",
+        "sebep": "ÇİĞ KUŞBAŞI PİDE HARCI (DANA+KUZU)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "M GOLD ET ÜRÜNLERİ GIDA TEKSTİL SANAYİ VE TİCARET LİMİTED ŞİRKETİ-M.CEYLANLAR KASABI",
+        "marka": "-",
+        "sebep": "ÇİĞ DANA KIYMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "ÖZ URFA-MEHMET ALTUNOVA",
+        "marka": "-",
+        "sebep": "ÇİĞ LAHMACUN HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "SİNAN CHEF DÖNERİUM RESTORAN ANONİM ŞİRKETİ",
+        "marka": "-",
+        "sebep": "DANA ETİNDEN HAZIRLANMIŞ ÇİĞ ET KÖFTE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "VKB TARIM ÜRÜNLERİ-SEZGİN ÇETİN",
+        "marka": "-",
+        "sebep": "AYVALIK VAKIF BİRLİK NATUREL SIZMA ZEYTİNYAĞI 5L",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "EAT TARIM ÜRÜNLERİ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "AYVALIK BİRLİK TAŞ BASKI ZEYTİNYAĞI 5L",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "EAT TARIM ÜRÜNLERİ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "AYVALIK DOĞAL NATUREL SIZMA ZEYTİNYAĞI 5L",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "EAT TARIM ÜRÜNLERİ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "EGE HİSAR NATUREL SIZMA ZYTİNYAĞI 16L",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "ASİL GIDA İMALAT TİCARET TEDARİK TAAHHÜT-AHMET TALŞIK",
+        "marka": "BİNBİR PETEK",
+        "sebep": "PETEKLİ ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "AKAR BAL-GÖKDAĞ KARAYAKA",
+        "marka": "PELİT",
+        "sebep": "SÜZME ÇİÇEK BALI-20 G",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "22.07.2026",
+        "urun": "ENFA GIDA-MUSTAFA ENÇETİN",
+        "marka": "ERTUĞRUL",
+        "sebep": "SÜZME ÇİÇEK BALI (1 KG)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
         "firma": "10.07.2026",
