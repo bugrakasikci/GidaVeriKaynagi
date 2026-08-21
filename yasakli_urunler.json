@@ -1,5 +1,93 @@
 [
     {
+        "firma": "20.08.2026",
+        "urun": "SARAY YEMEKÇİLİK-FERİDUN İNCE",
+        "marka": "-",
+        "sebep": "KIYMA KAVURMA",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "GÖZDE TANTUNİ-RAHİME ŞENGÜL",
+        "marka": "-",
+        "sebep": "ET TANTUNİ (PİŞMİŞ KIRMIZI ET)",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "SAFFET ET ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "KOCAAĞA ÇİFTLİĞİ ISIL İŞLEM GÖRMÜŞ SUCUK",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ SUCUK",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "SAFFET ET ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "SALİH KOCAAĞA ÇİFTLİĞİ ISIL İŞLEM GÖRMÜŞ SUCUK",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ SUCUK",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "SAFFET ET ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "SALİH KOCAAĞA ÇİFTLİĞİ ISIL İŞLEM GÖRMÜŞ BATON SUCUK",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ BATON SUCUK",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "SAFFET ET ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "SALİH KOCAAĞA ÇİFTLİĞİ ISIL İŞLEM GÖRMÜŞ SUCUK",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ SUCUK",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "SAFFET ET ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "SALİH KOCAAĞA ÇİFTLİĞİ ISIL İŞLEM GÖRMÜŞ KANGAL SUCUK",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ KANGAL SUCUK",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "HÜSEYİN USTA MENEKŞE-TUNCAY ZOR",
+        "marka": "-",
+        "sebep": "ÇİĞ LAHMACUN HARCI",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "BİOCLASS BİTKİSEL ÜRÜNLER-MEHMET EMİN KAYA",
+        "marka": "HONEY PALACE",
+        "sebep": "EPİMEDYUMLU MACUN (15GR)",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "KAYAR BAHARATLARI-HALİL KAYAR",
+        "marka": "KAYAR BAHARAT",
+        "sebep": "SUMAK",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "BALCILAR-HACER BALCI",
+        "marka": "ŞİFACIZADE",
+        "sebep": "SUCUKLUK BAHARAT KARIŞIMI",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
         "firma": "30.07.2026",
         "urun": "KAFAOĞLU SÜT VE GIDA MAMÜLLERİ SANAYİİ TİCARET LİMİTED ŞİRKETİ",
         "marka": "OKTA",
@@ -558,6 +646,198 @@
         "sebep": "SİYAH ÇAY",
         "kategori": "Sağlık Tehlikesi",
         "alt_liste": ""
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ANAMAS GIDA-ABDULLAH YILMAZ",
+        "marka": "ANAMAS",
+        "sebep": "TEREYAĞI (10 G)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ZENİ SÜT VE SÜT ÜRÜNLERİ İTHALAT İHRACAT SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "AYDİL GAZİOĞLU",
+        "sebep": "TAM YAĞLI TAZE TOST PEYNİRİ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ZENİ SÜT VE SÜT ÜRÜNLERİ İTHALAT İHRACAT SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "TATSAN",
+        "sebep": "TAM YAĞLI KAŞAR PEYNİRİ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ZENİ SÜT VE SÜT ÜRÜNLERİ İTHALAT İHRACAT SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "TATSAN",
+        "sebep": "TAM YAĞLI KAŞAR PEYNİRİ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ER ET ERCİYES ET VE ET ÜRÜNLERİ GIDA TİCARET VE SANAYİ LİMİTED ŞİRKETİ",
+        "marka": "YILDIZ",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ER ET ERCİYES ET VE ET ÜRÜNLERİ GIDA TİCARET VE SANAYİ LİMİTED ŞİRKETİ",
+        "marka": "YILDIZ",
+        "sebep": "DİLİMLİ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "CEYLAN ET-YUSUF CEYLAN",
+        "marka": "-",
+        "sebep": "DANA KIYMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "EMKO GIDA ÜRETİM PAZARLAMA SANAYİ TURİZM VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "İNCİRLİOVA GÜVEN ET ÜRÜNLERİ DEVE ISIL İŞLEM GÖRMÜŞ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ERCİYES SAKADAT ET TAVUK DERİ GIDA İNŞAAT SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "BAŞKARTAL",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "HARPUT YEMEK FABRİKASI-MAHMUT GÜLMEZ",
+        "marka": "-",
+        "sebep": "LAHMACUN (PİŞMİŞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "BUHARA LAHMACUN-MUSTAFA BAĞLAN",
+        "marka": "-",
+        "sebep": "ÇİĞ KIYMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "YUSUF CAN ŞARVAN-YCŞ MAKARNA",
+        "marka": "UĞUR ŞARVAN KAYSERİ",
+        "sebep": "EL YAPIMI KAYSERİ MANTISI (500 GR)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "GÖRGÜNEROĞLU GIDA MADDELERİ İMALATI ZAHİRECİLİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "KIZILCIKDERE GÖRGÜNEROĞLU ISIL İŞLEM GÖRMÜŞ SIĞIR SUCUK",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ SIĞIR SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "SARIYER BÖREKÇİSİ-HAYRETTİN KAYA",
+        "marka": "-",
+        "sebep": "KIYMALI PİDE (PİŞMİŞ İÇ HARÇ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "SERDİVAN YEMEKÇİLİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ-CİĞERCİ BAHATTİN",
+        "marka": "-",
+        "sebep": "DANA-KUZU ADANA KEBAP",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "SAYAR PİDE-SULTAN SAYAR",
+        "marka": "-",
+        "sebep": "DANA KIYMALI PİDE HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "MURAT GÖBEKÇİ MEHMET ASLAN ORTAKLIĞI-BİR EYLÜL LOKANTASI",
+        "marka": "-",
+        "sebep": "DANA KIYMALI KARNIYARIK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "HALK ETLİEKMEK VE PİDE FIRINI-İSMAİL GONCA",
+        "marka": "-",
+        "sebep": "ETLİ EKMEK İÇ HARCİ (DANA ETİ-KIYMA)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ZEYNARE GIDA TARIM İNŞAAT PETROL SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "AYVALIK BİRLİK TAŞBASKI NATUREL SIZMA ZEYTİNYAĞI 5L",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "EL SURİ TEA-MİKAİL GÜNÇİÇEĞİ",
+        "marka": "PETEK SİYAH ÇAY",
+        "sebep": "SİYAH ÇAY",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ARARBEY BAHARAT-SALİHA ARAR",
+        "marka": "-",
+        "sebep": "SUMAK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ÇUKUROVA BAHARAT-TUĞRUL DOLGUN",
+        "marka": "KEKİK OREGANO",
+        "sebep": "KEKİK (İŞLENMİŞ BÜTÜN VE PARÇA) 1000 GR",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "HASTÜRK GIDA OTOMOTİV İNŞAAT EMLAK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "ABALI",
+        "sebep": "SÜZME ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "VAHİT YILDIZ BALSU-VAHİT YILDIZ",
+        "marka": "ABALI",
+        "sebep": "SÜZME ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
     },
     {
         "firma": "30.07.2026",
@@ -2654,6 +2934,198 @@
         "sebep": "SÜZME ÇİÇEK BALI",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ANAMAS GIDA-ABDULLAH YILMAZ",
+        "marka": "ANAMAS",
+        "sebep": "TEREYAĞI (10 G)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ZENİ SÜT VE SÜT ÜRÜNLERİ İTHALAT İHRACAT SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "AYDİL GAZİOĞLU",
+        "sebep": "TAM YAĞLI TAZE TOST PEYNİRİ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ZENİ SÜT VE SÜT ÜRÜNLERİ İTHALAT İHRACAT SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "TATSAN",
+        "sebep": "TAM YAĞLI KAŞAR PEYNİRİ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ZENİ SÜT VE SÜT ÜRÜNLERİ İTHALAT İHRACAT SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "TATSAN",
+        "sebep": "TAM YAĞLI KAŞAR PEYNİRİ",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ER ET ERCİYES ET VE ET ÜRÜNLERİ GIDA TİCARET VE SANAYİ LİMİTED ŞİRKETİ",
+        "marka": "YILDIZ",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ER ET ERCİYES ET VE ET ÜRÜNLERİ GIDA TİCARET VE SANAYİ LİMİTED ŞİRKETİ",
+        "marka": "YILDIZ",
+        "sebep": "DİLİMLİ PİLİÇ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "CEYLAN ET-YUSUF CEYLAN",
+        "marka": "-",
+        "sebep": "DANA KIYMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "EMKO GIDA ÜRETİM PAZARLAMA SANAYİ TURİZM VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "İNCİRLİOVA GÜVEN ET ÜRÜNLERİ DEVE ISIL İŞLEM GÖRMÜŞ SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ERCİYES SAKADAT ET TAVUK DERİ GIDA İNŞAAT SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "BAŞKARTAL",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "HARPUT YEMEK FABRİKASI-MAHMUT GÜLMEZ",
+        "marka": "-",
+        "sebep": "LAHMACUN (PİŞMİŞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "BUHARA LAHMACUN-MUSTAFA BAĞLAN",
+        "marka": "-",
+        "sebep": "ÇİĞ KIYMA",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "YUSUF CAN ŞARVAN-YCŞ MAKARNA",
+        "marka": "UĞUR ŞARVAN KAYSERİ",
+        "sebep": "EL YAPIMI KAYSERİ MANTISI (500 GR)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "GÖRGÜNEROĞLU GIDA MADDELERİ İMALATI ZAHİRECİLİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "KIZILCIKDERE GÖRGÜNEROĞLU ISIL İŞLEM GÖRMÜŞ SIĞIR SUCUK",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ SIĞIR SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "SARIYER BÖREKÇİSİ-HAYRETTİN KAYA",
+        "marka": "-",
+        "sebep": "KIYMALI PİDE (PİŞMİŞ İÇ HARÇ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "SERDİVAN YEMEKÇİLİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ-CİĞERCİ BAHATTİN",
+        "marka": "-",
+        "sebep": "DANA-KUZU ADANA KEBAP",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "SAYAR PİDE-SULTAN SAYAR",
+        "marka": "-",
+        "sebep": "DANA KIYMALI PİDE HARCI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "MURAT GÖBEKÇİ MEHMET ASLAN ORTAKLIĞI-BİR EYLÜL LOKANTASI",
+        "marka": "-",
+        "sebep": "DANA KIYMALI KARNIYARIK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "HALK ETLİEKMEK VE PİDE FIRINI-İSMAİL GONCA",
+        "marka": "-",
+        "sebep": "ETLİ EKMEK İÇ HARCİ (DANA ETİ-KIYMA)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ZEYNARE GIDA TARIM İNŞAAT PETROL SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "AYVALIK BİRLİK TAŞBASKI NATUREL SIZMA ZEYTİNYAĞI 5L",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "EL SURİ TEA-MİKAİL GÜNÇİÇEĞİ",
+        "marka": "PETEK SİYAH ÇAY",
+        "sebep": "SİYAH ÇAY",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ARARBEY BAHARAT-SALİHA ARAR",
+        "marka": "-",
+        "sebep": "SUMAK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "ÇUKUROVA BAHARAT-TUĞRUL DOLGUN",
+        "marka": "KEKİK OREGANO",
+        "sebep": "KEKİK (İŞLENMİŞ BÜTÜN VE PARÇA) 1000 GR",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "HASTÜRK GIDA OTOMOTİV İNŞAAT EMLAK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "ABALI",
+        "sebep": "SÜZME ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
+    },
+    {
+        "firma": "20.08.2026",
+        "urun": "VAHİT YILDIZ BALSU-VAHİT YILDIZ",
+        "marka": "ABALI",
+        "sebep": "SÜZME ÇİÇEK BALI",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 2 (Tağşiş)"
     },
     {
         "firma": "30.07.2026",
