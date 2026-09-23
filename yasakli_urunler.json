@@ -865,81 +865,81 @@
     },
     {
         "firma": "30.07.2026",
-        "urun": "İSTANBULKAPI ÇORBACISI-MUHAMMED EMİR AYLANÇ",
+        "urun": "ERCİYES SÜT ÜRÜNLERİ LİMİTED ŞİRKETİ",
+        "marka": "NARLITEPE DOĞANIN SEVGİSİ",
+        "sebep": "TAM YAĞLI AYÇEKİRDEĞİ MISIR ÇEŞNİLİ ERİTME PEYNİRİ (500 GR)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "30.07.2026",
+        "urun": "HALİL ÇEVİK",
         "marka": "-",
-        "sebep": "KIYMALI PİDE İÇ HARCI(DANA ETLİ)",
+        "sebep": "TATLI BİBER SALÇASI",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 1 (Taklit)"
     },
     {
         "firma": "30.07.2026",
-        "urun": "BİNGÖL LOKANTASI-ORHAN BİNGÖL",
+        "urun": "ÖZDERİNALP KASABI-CEM DERİNALP",
+        "marka": "DERİNALP KARDEŞLER",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "30.07.2026",
+        "urun": "HİRA ET VE ET ÜRÜNLERİ-MEHMET AVCI",
+        "marka": "POZANTI YÖRESEL",
+        "sebep": "DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "30.07.2026",
+        "urun": "MAB ET ÜRÜNLERİ-MEHMET BIRAKOĞLU",
+        "marka": "TESKİNOĞLU",
+        "sebep": "ISIL İŞLEM GÖRMÜŞ DANA SUCUK",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "30.07.2026",
+        "urun": "YNS ET MAMÜLLERİ GIDA MADDELERİ PAZARLAMA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "GÜNSELİZADEM",
+        "sebep": "KASAP PİLİÇ KÖFTE (ISIL İŞLEM UYGULANMIŞ PİLİÇ ETİ ÜRÜNÜ-PİŞMİŞ&DONDURULMUŞ)",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "30.07.2026",
+        "urun": "MEGA ÇINAR GRUP-HAYDAR AŞILIOĞLU",
+        "marka": "MEGA ÇINAR",
+        "sebep": "PİLİÇ KÖFTE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "30.07.2026",
+        "urun": "MEGA ÇINAR GRUP-HAYDAR AŞILIOĞLU",
+        "marka": "MEGA ÇINAR",
+        "sebep": "PİLİÇ KÖFTE",
+        "kategori": "Taklit/Tağşiş",
+        "alt_liste": "Liste 1 (Taklit)"
+    },
+    {
+        "firma": "30.07.2026",
+        "urun": "ULU HÜNKAR KÖŞKÜ KAFE RESTORAN LİMİTED ŞİRKETİ-ULU HÜNKAR",
         "marka": "-",
-        "sebep": "ÇİĞ ADANA KEBAP HARCI",
+        "sebep": "İSKENDER ET DÖNER (PİŞMİŞ)",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 1 (Taklit)"
     },
     {
         "firma": "30.07.2026",
-        "urun": "VLKN TARIM GIDA TURİZM SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "urun": "EROĞLU YEMEKÇİLİK GIDA İNŞAAT TAAHHÜT OTOMOTİV SANAYİ VE TİCARET LİMİTED ŞİRKETİ-EROĞLU YEMEK FABRİKASI",
         "marka": "-",
-        "sebep": "AYVALIK NATUREL SIZMA ZEYTİNYAĞI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "30.07.2026",
-        "urun": "BALÇİFTLİĞİ GURME ŞARKÜTERİ-AHMET KAMİL EYNALLI",
-        "marka": "BAL ÇİFTLİĞİ GURME",
-        "sebep": "SIZMA ZEYTİNYAĞI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "30.07.2026",
-        "urun": "PEG GIDA PAZARLAMA VE LOJİSTİK TİCARET LİMİTED ŞİRKETİ",
-        "marka": "ALİN",
-        "sebep": "NATUREL SIZMA ZEYTİNYAĞI (1 L)",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "30.07.2026",
-        "urun": "ENFA GIDA-MUSTAFA ENÇETİN",
-        "marka": "ZARAKÖY",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.07.2026",
-        "urun": "TEMBA DAYANIKLI TÜKETİM KIRTASİYE İNŞAAT ELEKTRİK ELEKTRONİK GIDA TARIM ÜRN.HAY.SAN.VE TİC.LTD.ŞTİ.-ŞİRİN TATVAN SÜT VE SÜT ÜRÜNLERİ",
-        "marka": "ŞİRİN",
-        "sebep": "TAM YAĞLI YOĞURT",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.07.2026",
-        "urun": "ANAMAS GIDA-ABDULLAH YILMAZ",
-        "marka": "ANAMAS PİKNİK",
-        "sebep": "TEREYAĞI-10 G",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.07.2026",
-        "urun": "MUTUM SÜT ÜRÜNLERİ TARIM HAYVANCILIK İNŞAAT GIDA NAKLİYE TURİZM SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "DOY HOREKA",
-        "sebep": "TAM YAĞLI TAZE KAŞAR PEYNİRİ (1000 GR)",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.07.2026",
-        "urun": "HERKÜL ÇİFTLİĞİ SÜT VE SÜT ÜRÜNLERİ LİMİTED ŞİRKETİ",
-        "marka": "YAYLACIK ÇİFTLİĞİ",
-        "sebep": "KOYUN YOĞURDU",
+        "sebep": "DANA ETLİ KADINBUDU KÖFTE HARCI",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 1 (Taklit)"
     },
