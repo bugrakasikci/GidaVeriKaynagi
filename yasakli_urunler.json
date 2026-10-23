@@ -1,5 +1,109 @@
 [
     {
+        "firma": "22.10.2026",
+        "urun": "SALİH SUCUKLARI ET VE ET ÜRÜNLERİ GIDA HAYVANCILIK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "SUCUK BAHARAT KARIŞIMI",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "22.10.2026",
+        "urun": "ATILIM ET ÜRÜNLERİ VE SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "marka": "-",
+        "sebep": "SUCUK BAHARAT KARIŞIMI",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "22.10.2026",
+        "urun": "SEVAL ET TAVUK ÜRÜNLERİ TURİZM İNŞAAT TAAHHÜT NAKLİYAT PETROL ÜRÜNLERİ GIDA HAY.SAN.VE TİC.LTD.ŞTİ.",
+        "marka": "-",
+        "sebep": "SUCUK BAHARAT KARIŞIMI",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "22.10.2026",
+        "urun": "METİNLER GIDA VE BAHARAT SANAYİ-MEHMET METİN",
+        "marka": "BABASAN",
+        "sebep": "SUCUK HARCI PRO (BAHARAT KARIŞIMI)",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "22.10.2026",
+        "urun": "METİNLER GIDA VE BAHARAT SANAYİ-MEHMET METİN",
+        "marka": "TOMURCUK BAHARAT",
+        "sebep": "SUCUK KOMBİ (BAHARAT KARIŞIMI)",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "22.10.2026",
+        "urun": "METİNLER GIDA VE BAHARAT SANAYİ-MEHMET METİN",
+        "marka": "TOMURCUK BAHARAT",
+        "sebep": "SUCUK KOMBİ (BAHARAT KARIŞIMI)",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "22.10.2026",
+        "urun": "METİNLER GIDA VE BAHARAT SANAYİ-MEHMET METİN",
+        "marka": "TOMURCUK BAHARAT",
+        "sebep": "SUCUK KOMBİ (BAHARAT KARIŞIMI)",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "22.10.2026",
+        "urun": "METİNLER GIDA VE BAHARAT SANAYİ-MEHMET METİN",
+        "marka": "TOMURCUK BAHARAT",
+        "sebep": "SUCUK KOMBİ (BAHARAT KARIŞIMI)",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "22.10.2026",
+        "urun": "METİNLER GIDA VE BAHARAT SANAYİ-MEHMET METİN",
+        "marka": "TOMURCUK BAHARAT",
+        "sebep": "SUCUK KOMBİ (BAHARAT KARIŞIMI)",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "22.10.2026",
+        "urun": "GMT ULUSLARARASI YENİLİKÇİ GIDA TEKNOLOJİLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "GMT",
+        "sebep": "G-COLORANT NAT 90- 20 KG",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "22.10.2026",
+        "urun": "SPICE BABA GIDA PAZARLAMA SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "marka": "DÖRT MEVSİM BAHARAT",
+        "sebep": "SUCUK HARCI 3 KG",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "22.10.2026",
+        "urun": "BULDUMLAR BAHARAT BAKLİYAT GIDA TARIM ZİRAİ ÜRÜNLER TAŞ.OTO.İNŞ.YAZ.TUR.METAL MAK.SAN.TİC.LTD.ŞTİ.",
+        "marka": "BULDUMLAR BAHARAT SUCUK KOMBİ",
+        "sebep": "SUCUK BAHARATI",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
+        "firma": "22.10.2026",
+        "urun": "BALBİS BAHARAT GIDA TARIM HAYVANCILIK İNŞAAT LOJİSTİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ-BALBİS BAHARAT",
+        "marka": "BALBİS BAHARAT KIRMIZI TATLI TOZ BİBER",
+        "sebep": "KIRMIZI BİBER",
+        "kategori": "Sağlık Tehlikesi",
+        "alt_liste": ""
+    },
+    {
         "firma": "12.10.2026",
         "urun": "MMİ İLAÇ GIDA KOZMETİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
         "marka": "LOVE FUN",
@@ -616,30 +720,6 @@
         "alt_liste": ""
     },
     {
-        "firma": "22.04.2026",
-        "urun": "GÖKSEL YEMEKÇİLİK NARENCİYE GIDA NAKLİYE TURİZM TAAHHÜT SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "-",
-        "sebep": "PİŞMİŞ KIRMIZI ET",
-        "kategori": "Sağlık Tehlikesi",
-        "alt_liste": ""
-    },
-    {
-        "firma": "22.04.2026",
-        "urun": "ONUR TANTUNİ-MİKAİL BOZCE",
-        "marka": "-",
-        "sebep": "PİŞMİŞ KIRMIZI ET",
-        "kategori": "Sağlık Tehlikesi",
-        "alt_liste": ""
-    },
-    {
-        "firma": "22.04.2026",
-        "urun": "PEKMEZ DÜNYASI GIDA PAZARLAMA SANAYİ VE DIŞ TİCARET LİMİTED ŞİRKETİ",
-        "marka": "PEKMEZ DÜNYASI",
-        "sebep": "BİTKİSEL KARIŞIMLI MACUN",
-        "kategori": "Sağlık Tehlikesi",
-        "alt_liste": ""
-    },
-    {
         "firma": "12.10.2026",
         "urun": "ÇELOĞLU GIDA HAYVANCILIK İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
         "marka": "ÇELOĞLU AHMET",
@@ -2984,70 +3064,6 @@
         "alt_liste": "Liste 1 (Taklit)"
     },
     {
-        "firma": "22.04.2026",
-        "urun": "AHMET TOPALOĞLU-KARADAĞ SÜT ÜRÜNLERİ",
-        "marka": "ÖZVARLI SÜT ÜRÜNLERİ",
-        "sebep": "TEREYAĞ PASTÖRİZE",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.04.2026",
-        "urun": "DAMAR SÜT VE SÜT ÜRÜNLERİ HUBUBAT KUYUMCULUK TEKSTİL TAŞIMACILIK TARIM ÜRÜNLERİ SANAYİ TİC.LTD.ŞTİ.",
-        "marka": "DAMAR",
-        "sebep": "KAYMAKLI YOĞURT",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.04.2026",
-        "urun": "BALMİO SÜT ÜRÜNLERİ TİCARET-MEHMET KARAOĞLAN",
-        "marka": "MUHİTTİNOĞLU",
-        "sebep": "HOMOJENİZE YOĞURT",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.04.2026",
-        "urun": "ÇİĞDEM KUZDERE",
-        "marka": "-",
-        "sebep": "TEREYAĞI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.04.2026",
-        "urun": "EROĞLU YEMEKÇİLİK GIDA İNŞAAT TAAHHÜT OTOMOTİV SANAYİ VE TİCARET LİMİTED ŞİRKETİ-EROĞLU GROUP",
-        "marka": "-",
-        "sebep": "PİŞMİŞ LAHMACUN",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.04.2026",
-        "urun": "KAMAŞ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "KAMAŞ",
-        "sebep": "SUMAK-1 KG",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.04.2026",
-        "urun": "GÜLSAN GIDA SANAYİ TİCARET ANONİM ŞİRKETİ",
-        "marka": "BALBAZAR",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
-        "firma": "22.04.2026",
-        "urun": "GÜLSAN GIDA SANAYİ TİCARET ANONİM ŞİRKETİ",
-        "marka": "GÜLSAN",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 1 (Taklit)"
-    },
-    {
         "firma": "12.10.2026",
         "urun": "ÇELOĞLU GIDA HAYVANCILIK İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
         "marka": "ÇELOĞLU AHMET",
@@ -5387,70 +5403,6 @@
         "firma": "01.06.2026",
         "urun": "HASAT PAKETLEME GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ",
         "marka": "KORU BAL",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.04.2026",
-        "urun": "AHMET TOPALOĞLU-KARADAĞ SÜT ÜRÜNLERİ",
-        "marka": "ÖZVARLI SÜT ÜRÜNLERİ",
-        "sebep": "TEREYAĞ PASTÖRİZE",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.04.2026",
-        "urun": "DAMAR SÜT VE SÜT ÜRÜNLERİ HUBUBAT KUYUMCULUK TEKSTİL TAŞIMACILIK TARIM ÜRÜNLERİ SANAYİ TİC.LTD.ŞTİ.",
-        "marka": "DAMAR",
-        "sebep": "KAYMAKLI YOĞURT",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.04.2026",
-        "urun": "BALMİO SÜT ÜRÜNLERİ TİCARET-MEHMET KARAOĞLAN",
-        "marka": "MUHİTTİNOĞLU",
-        "sebep": "HOMOJENİZE YOĞURT",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.04.2026",
-        "urun": "ÇİĞDEM KUZDERE",
-        "marka": "-",
-        "sebep": "TEREYAĞI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.04.2026",
-        "urun": "EROĞLU YEMEKÇİLİK GIDA İNŞAAT TAAHHÜT OTOMOTİV SANAYİ VE TİCARET LİMİTED ŞİRKETİ-EROĞLU GROUP",
-        "marka": "-",
-        "sebep": "PİŞMİŞ LAHMACUN",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.04.2026",
-        "urun": "KAMAŞ GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-        "marka": "KAMAŞ",
-        "sebep": "SUMAK-1 KG",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.04.2026",
-        "urun": "GÜLSAN GIDA SANAYİ TİCARET ANONİM ŞİRKETİ",
-        "marka": "BALBAZAR",
-        "sebep": "SÜZME ÇİÇEK BALI",
-        "kategori": "Taklit/Tağşiş",
-        "alt_liste": "Liste 2 (Tağşiş)"
-    },
-    {
-        "firma": "22.04.2026",
-        "urun": "GÜLSAN GIDA SANAYİ TİCARET ANONİM ŞİRKETİ",
-        "marka": "GÜLSAN",
         "sebep": "SÜZME ÇİÇEK BALI",
         "kategori": "Taklit/Tağşiş",
         "alt_liste": "Liste 2 (Tağşiş)"
